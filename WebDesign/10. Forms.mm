@@ -1,0 +1,457 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#33ffff" COLOR="#000000" CREATED="1415278513405" ID="ID_1432180713" MODIFIED="1719348791934" TEXT="Forms">
+<edge COLOR="#000000" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1415286186893" ID="ID_247235990" MODIFIED="1719348791934" POSITION="right" TEXT="Introduction">
+<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1415291183529" ID="ID_1527841239" MODIFIED="1719348791934" TEXT="Uses">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286205175" ID="ID_1635957163" MODIFIED="1719348791935" TEXT="In search engines">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286205185" ID="ID_852199257" MODIFIED="1719348791935" TEXT="Placing an order">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286205185" ID="ID_1418006377" MODIFIED="1719348791936" TEXT="Joining an online mailing list">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286237949" ID="ID_1482872327" MODIFIED="1719348791936" TEXT="Front End">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286232799" ID="ID_1502417956" MODIFIED="1719348791936" TEXT="Visible to the user">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286345964" ID="ID_1025250959" MODIFIED="1719348791936" TEXT="Information is filled in here">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286240380" ID="ID_1929527812" MODIFIED="1719348791942" TEXT="Back End">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286232809" ID="ID_541693030" MODIFIED="1719348791943" TEXT="Invisible to the user">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286232809" ID="ID_293151461" MODIFIED="1719348791943" TEXT="Code that processes the information">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415291258350" ID="ID_137301290" MODIFIED="1719348791943" TEXT="Design Tips">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415291264268" ID="ID_43921977" MODIFIED="1719348791943" TEXT="Short">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415291267208" ID="ID_1837831887" MODIFIED="1719348791944" TEXT="Simple">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415291269537" ID="ID_1214721841" MODIFIED="1719348791944" TEXT="Organised">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415291273066" ID="ID_1164316596" MODIFIED="1719348791944" TEXT="Arrange elements with tables and layers">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1415286221727" ID="ID_519091873" MODIFIED="1719348791944" POSITION="right" TEXT="Components">
+<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1415291158855" ID="ID_1932207920" MODIFIED="1719348791945" TEXT="Form Elements">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1415291171232" ID="ID_1939246951" MODIFIED="1719348791945" TEXT="Submit button">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1415291206224" ID="ID_590147636" MODIFIED="1719348791945" TEXT="Reset Button">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1415286376138" ID="ID_1034095685" MODIFIED="1719348791945" TEXT="&lt;form&gt; attributes">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286399231" ID="ID_1595112039" MODIFIED="1719348791946" TEXT="action">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415286430128" ID="ID_1040554923" MODIFIED="1719348791946" TEXT="Defines where the information is sent">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1421422417893" ID="ID_1593902418" MODIFIED="1719348791946" TEXT="action=&quot;mailto: email@gmail.com&quot;">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415286403725" ID="ID_1728924261" MODIFIED="1719348791946" TEXT="method">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415286453392" ID="ID_444510542" MODIFIED="1719348791946" TEXT="Defines how the form is sent">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1415286423487" ID="ID_1952231426" MODIFIED="1719348791946" TEXT="get">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1415286425298" ID="ID_1746755272" MODIFIED="1719348791946" TEXT="post">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415286408386" ID="ID_1127464801" MODIFIED="1719348791947" TEXT="id">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415286468614" ID="ID_53698419" MODIFIED="1719348791947" TEXT="Used with CSS">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415286409886" ID="ID_680145928" MODIFIED="1719348791947" TEXT="name">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415286478765" ID="ID_1824424000" MODIFIED="1719348791947" TEXT="Used for JavaScript">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415286411386" ID="ID_390821836" MODIFIED="1719348791947" TEXT="autocomplete">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415286543683" ID="ID_1135967987" MODIFIED="1719348791947" TEXT="To fill out entire form">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1415286553335" ID="ID_1629495119" MODIFIED="1719348791947" TEXT="HTML5">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1415293209316" ID="ID_1931363222" MODIFIED="1719348791948" POSITION="left" TEXT="Tags">
+<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1415293224551" ID="ID_1633489635" MODIFIED="1719348791948" TEXT="&lt;input&gt; - creates form elements">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415293263855" ID="ID_1362908180" MODIFIED="1719348791948" TEXT="type">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415293439517" ID="ID_1910302114" MODIFIED="1719348791948" TEXT="text">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1415293441647" ID="ID_1997421633" MODIFIED="1719348791949" TEXT="submit">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1421421996611" ID="ID_728727348" MODIFIED="1719348791949" TEXT="Predefined button">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1415293446178" ID="ID_398672046" MODIFIED="1719348791949" TEXT="reset">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1421422009819" ID="ID_1654963856" MODIFIED="1719348791949" TEXT="Predefined button">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1415293464589" ID="ID_495472917" MODIFIED="1719348791949" TEXT="checkbox">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1415293481543" ID="ID_1077013665" MODIFIED="1719348791949" TEXT="radio">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1415293491024" ID="ID_1529743981" MODIFIED="1719348791949" TEXT="button">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293276387" ID="ID_1374404978" MODIFIED="1719348791949" TEXT="name">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422124983" ID="ID_1480411547" MODIFIED="1719348791949" TEXT="For Javascript use">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293278187" ID="ID_1311816463" MODIFIED="1719348791949" TEXT="id">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422132624" ID="ID_184202956" MODIFIED="1719348791950" TEXT="For CSS styling">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293278947" ID="ID_54980323" MODIFIED="1719348791950" TEXT="value">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422204419" ID="ID_787101454" MODIFIED="1719348791950" TEXT="Text in button">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1421422210723" ID="ID_1241792126" MODIFIED="1719348791950" TEXT="Text in text box">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293281307" ID="ID_88824672" MODIFIED="1719348791950" TEXT="size">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293283667" ID="ID_165827047" MODIFIED="1719348791950" TEXT="maxlength">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293286538" ID="ID_19195453" MODIFIED="1719348791950" TEXT="checked">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293711251" ID="ID_699982713" MODIFIED="1719348791950" TEXT="autocomplete">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415293717082" ID="ID_952948763" MODIFIED="1719348791950" TEXT="Form element">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293727994" ID="ID_996971713" MODIFIED="1719348791950" TEXT="autofocus">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415293735375" ID="ID_1964050849" MODIFIED="1719348791950" TEXT="Set cursor in element">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293751608" ID="ID_1308359344" MODIFIED="1719348791950" TEXT="required">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422231229" ID="ID_1354389165" MODIFIED="1719348791951" TEXT="= &quot;required&quot;">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293765379" ID="ID_1638583289" MODIFIED="1719348791951" TEXT="list">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293773221" ID="ID_428887615" MODIFIED="1719348791951" TEXT="min,max">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293780812" ID="ID_1621736944" MODIFIED="1719348791951" TEXT="placeholder">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422241501" ID="ID_404194269" MODIFIED="1719348791951" TEXT="Text in textbox">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1421422039540" ID="ID_630798480" MODIFIED="1719348791951" TEXT="Examples">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422043788" ID="ID_1525110874" MODIFIED="1719348791951" TEXT="&lt;input type=&quot;button&quot; value=&quot;textinbutton&quot;&gt;">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1421422073933" ID="ID_366331828" MODIFIED="1719348791951" TEXT="&lt;input type=&quot;checkbox&quot; name=&quot;blah&quot; ID=&quot;blah value=&quot;when selected&quot;&gt;Text displayed">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415293224561" ID="ID_384099865" MODIFIED="1719348791951" TEXT="&lt;textarea&gt; - creates a text area">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415293326814" ID="ID_985348940" MODIFIED="1719348791951" TEXT="name">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293328594" ID="ID_1658389691" MODIFIED="1719348791952" TEXT="rows">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422250613" ID="ID_1508747851" MODIFIED="1719348791952" TEXT="rows=&quot;2&quot;">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293330314" ID="ID_184174409" MODIFIED="1719348791952" TEXT="cols">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1421422259869" ID="ID_1526926695" MODIFIED="1719348791952" TEXT="cols=&quot;4&quot;">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293333314" ID="ID_730592038" MODIFIED="1719348791952" TEXT="wrap">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293711251" ID="ID_744862781" MODIFIED="1719348791956" TEXT="autocomplete">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415293717082" ID="ID_344612893" MODIFIED="1719348791956" TEXT="Form element">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415293727994" ID="ID_1255705163" MODIFIED="1719348791957" TEXT="autofocus">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+<node COLOR="#111111" CREATED="1415293735375" ID="ID_481309912" MODIFIED="1719348791957" TEXT="Set cursor in element">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1415354396048" ID="ID_93597105" MODIFIED="1719348791957" TEXT="required">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415293224561" ID="ID_1322833919" MODIFIED="1719348791957" TEXT="&lt;select&gt; - creates a menu">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415293302441" ID="ID_1896283743" MODIFIED="1719348791957" TEXT="name">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293304221" ID="ID_1841910773" MODIFIED="1719348791957" TEXT="size">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293306412" ID="ID_1560305379" MODIFIED="1719348791957" TEXT="multiple">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415293224561" ID="ID_1339700120" MODIFIED="1719348791957" TEXT="&lt;option&gt; - creates menu items">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415293313782" ID="ID_201855054" MODIFIED="1719348791958" TEXT="selected">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293316412" ID="ID_1688035580" MODIFIED="1719348791958" TEXT="value">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415293318213" ID="ID_270834752" MODIFIED="1719348791958" TEXT="label">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1415291071649" ID="ID_1021159398" MODIFIED="1719348791962" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="Forms_7160605587131201535.jpeg" />
+  </body>
+</html></richcontent>
+<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="18"/>
+</node>
+<node COLOR="#0033ff" CREATED="1415286614842" ID="ID_832660285" MODIFIED="1719348791963" POSITION="right" TEXT="Form Elements">
+<edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="Rockwell" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1415286688512" ID="ID_1487795088" MODIFIED="1719348791963" TEXT="Text fields">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688512" ID="ID_1537293581" MODIFIED="1719348791963" TEXT="Input a line of text">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688512" ID="ID_1300397200" MODIFIED="1719348791963" TEXT="Maximum length">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286745581" ID="ID_404561773" MODIFIED="1719348791963" TEXT="Size">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286688512" ID="ID_1424756973" MODIFIED="1719348791963" TEXT="Radio buttons">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688512" ID="ID_1372891005" MODIFIED="1719348791963" TEXT="Provide multiple choices with only one selection">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_651111139" MODIFIED="1719348791963" TEXT="Checked">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286758652" ID="ID_1060019198" MODIFIED="1719348791964" TEXT="Unchecked">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286688522" ID="ID_676635622" MODIFIED="1719348791964" TEXT="Check boxes">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_1772653583" MODIFIED="1719348791964" TEXT="Checked">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286758652" ID="ID_830704364" MODIFIED="1719348791964" TEXT="Unchecked">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_1940013185" MODIFIED="1719348791964" TEXT="Multiple choices with multiple selections">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286688532" ID="ID_495191264" MODIFIED="1719348791964" TEXT="Submit buttons">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688532" ID="ID_524867312" MODIFIED="1719348791964" TEXT="Button label">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688532" ID="ID_473619255" MODIFIED="1719348791964" TEXT="Collects and sends form input">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286688532" ID="ID_203298060" MODIFIED="1719348791965" TEXT="Reset buttons">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688532" ID="ID_1671446988" MODIFIED="1719348791965" TEXT="Button label">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688532" ID="ID_1381687349" MODIFIED="1719348791965" TEXT="Erases or clears the form input">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415286688522" ID="ID_274595113" MODIFIED="1719348791965" TEXT="Text areas">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_184364271" MODIFIED="1719348791965" TEXT="Width">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286779174" ID="ID_490819468" MODIFIED="1719348791965" TEXT="Height">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_926572326" MODIFIED="1719348791965" TEXT="Provide multiple lines of text">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1415290490137" ID="ID_1912083998" MODIFIED="1719348791965" TEXT="Menus">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_561531438" MODIFIED="1719348791966" TEXT="Size">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1415286688522" ID="ID_1044360821" MODIFIED="1719348791966" TEXT="Menu of verbose choices">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</map>

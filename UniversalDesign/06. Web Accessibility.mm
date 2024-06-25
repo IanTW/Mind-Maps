@@ -1,0 +1,316 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#33ffff" COLOR="#000000" CREATED="1514887489317" ID="ID_91400379" MODIFIED="1515356623492">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Web
+    </p>
+    <p style="text-align: center">
+      Accessibility
+    </p>
+  </body>
+</html></richcontent>
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1514980843365" ID="ID_1044514301" MODIFIED="1514980855096" POSITION="right" TEXT="General Guidelines">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1514980856340" ID="ID_565067738" MODIFIED="1514980865663" TEXT="Avoid inline styling">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1514980866299" ID="ID_1176345502" MODIFIED="1514980880622" TEXT="Separate content from styling">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1514980881450" ID="ID_907157713" MODIFIED="1514980890997" TEXT="Most assistive techs use keyboard access">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1514980924608" ID="ID_31414905" MODIFIED="1514980930355" TEXT="Avoid flashing images">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1514980936399" ID="ID_187590800" MODIFIED="1514980950002" TEXT="Should be customisable">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1514980829903" ID="ID_118434906" MODIFIED="1514980837944" POSITION="right" TEXT="MeAC">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1514980999701" ID="ID_461006857" MODIFIED="1515362705652" TEXT="Measuring eAccessibility in Europe (2010)">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515362556728" ID="ID_774426233" MODIFIED="1515362696827" TEXT="2006 Riga Declaration to enhance accessibility and useability">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1514981523711" ID="ID_146201838" MODIFIED="1515252857265" TEXT="Used the WCAG guidelines as a compliance framework">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1514981498328" ID="ID_600658512" MODIFIED="1515252850499" TEXT="12 government and private sector websites">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1514990623915" ID="ID_605448765" MODIFIED="1515252850499" TEXT="Newspapers">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990628057" ID="ID_1088214634" MODIFIED="1515252850499" TEXT="TV">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990632064" ID="ID_776469714" MODIFIED="1515252850499" TEXT="Banking">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990634608" ID="ID_290870802" MODIFIED="1515252850499" TEXT="Transport">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990639318" ID="ID_1680020508" MODIFIED="1515252850499" TEXT="Utilities">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990643261" ID="ID_1555396404" MODIFIED="1515252850499" TEXT="Telecommunications">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1514981484841" ID="ID_276141481" MODIFIED="1515252845182" TEXT="Sampled a number of countries">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1514990657675" ID="ID_1518109583" MODIFIED="1515252845183" TEXT="Czech republic">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990664648" ID="ID_1510344269" MODIFIED="1515252845184" TEXT="Denmark">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990675711" ID="ID_1811544682" MODIFIED="1515252845185" TEXT="France">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990678413" ID="ID_1280760496" MODIFIED="1515252845185" TEXT="Germany">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990681726" ID="ID_1428291293" MODIFIED="1515252845185" TEXT="Hungary">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990684574" ID="ID_290743536" MODIFIED="1515252845185" TEXT="Ireland">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990688102" ID="ID_1334277396" MODIFIED="1515252845185" TEXT="USA">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990691702" ID="ID_737351820" MODIFIED="1515252845185" TEXT="UK">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990693189" ID="ID_40399872" MODIFIED="1515252845185" TEXT="Australia">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1514990715900" ID="ID_1847308340" MODIFIED="1515252845185" TEXT="Canada">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1514981593683" ID="ID_1420338817" MODIFIED="1514981599279" TEXT="Evaluation methods">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1514981600228" ID="ID_1889556277" MODIFIED="1514981604159" TEXT="Manual">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1514981618131" ID="ID_1954768693" MODIFIED="1514981631693" TEXT="3-4 representative pages"/>
+<node COLOR="#111111" CREATED="1514981632170" ID="ID_559982601" MODIFIED="1514990960267" TEXT="Forms, data tables, captcha"/>
+<node COLOR="#111111" CREATED="1514981768907" ID="ID_1465050921" MODIFIED="1514981838795" TEXT="Easy checks from w3.org">
+<node COLOR="#111111" CREATED="1514981789034" ID="ID_1974178953" MODIFIED="1514981792189" TEXT="Page title"/>
+<node COLOR="#111111" CREATED="1514981792753" ID="ID_377491724" MODIFIED="1514981870490" TEXT="Alt text content"/>
+<node COLOR="#111111" CREATED="1514981844704" ID="ID_856889746" MODIFIED="1514981848418" TEXT="Contrast"/>
+<node COLOR="#111111" CREATED="1514981986728" ID="ID_1776894962" MODIFIED="1514990938999" TEXT="Headers h1, h2"/>
+<node COLOR="#111111" CREATED="1514990880051" ID="ID_729478991" MODIFIED="1514990896568" TEXT="Audio description"/>
+<node COLOR="#111111" CREATED="1514990897041" ID="ID_1386195315" MODIFIED="1514990908589" TEXT="Headings in tables"/>
+<node COLOR="#111111" CREATED="1514990916745" ID="ID_1565956580" MODIFIED="1514990921872" TEXT="Use of style sheets"/>
+<node COLOR="#111111" CREATED="1514990927576" ID="ID_271818114" MODIFIED="1514990933577" TEXT="Font size settings"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1514981604531" ID="ID_12000895" MODIFIED="1514981608423" TEXT="Automatic">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1514981569021" ID="ID_367201292" MODIFIED="1514981614099" TEXT="25 webpages, depth of five">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1514980838534" ID="ID_672076288" MODIFIED="1514980841968" POSITION="left" TEXT="WCAG">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1514980902913" ID="ID_1965886347" MODIFIED="1515417907518" TEXT="Perceivable">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515411452460" ID="ID_806825652" MODIFIED="1515417907519" TEXT="Information is presented in ways that it can be percieved ">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515413114072" ID="ID_685582631" MODIFIED="1515417907520" TEXT="Must be visible to some of their senses">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1514980906344" ID="ID_642935219" MODIFIED="1515417908686" TEXT="Operable">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515413238882" ID="ID_542136329" MODIFIED="1515417908687" TEXT="Interface components and navigation must be operable">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515413271976" ID="ID_1055285954" MODIFIED="1515417908688" TEXT="Keyboard access">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1514980909793" ID="ID_342524892" MODIFIED="1515417909991" TEXT="Understandable">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515413285767" ID="ID_1513862909" MODIFIED="1515417909992" TEXT="Information and operation of interface">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515413308142" ID="ID_149441780" MODIFIED="1515417909993" TEXT="Content too">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1514980914696" ID="ID_1091920076" MODIFIED="1515417911311" TEXT="Robust">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515413328846" ID="ID_461008749" MODIFIED="1515417911312" TEXT="Interpreted by variety of assistive techs">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515413359988" ID="ID_1561831060" MODIFIED="1515417911312" TEXT="Compatible and interoperable with future evolutions">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1514981672920" ID="ID_1682880822" MODIFIED="1514981677787" TEXT="Compliance levels">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1514981682271" ID="ID_1746162480" MODIFIED="1515417923342" TEXT="A">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515417929629" ID="ID_630052847" MODIFIED="1515417943249" TEXT="Basic web accessibility features">
+<node COLOR="#111111" CREATED="1515418014232" ID="ID_1263677643" MODIFIED="1515418019868" TEXT="Text alternatives"/>
+<node COLOR="#111111" CREATED="1515418026072" ID="ID_775476393" MODIFIED="1515418034500" TEXT="Content logically structured"/>
+<node COLOR="#111111" CREATED="1515418039895" ID="ID_624262666" MODIFIED="1515418048474" TEXT="Avoid automatic audio and video"/>
+<node COLOR="#111111" CREATED="1515418057038" ID="ID_1614722993" MODIFIED="1515418062074" TEXT="Avoid kboard traps"/>
+<node COLOR="#111111" CREATED="1515418066821" ID="ID_1809232997" MODIFIED="1515418073761" TEXT="No flashing content"/>
+<node COLOR="#111111" CREATED="1515418082837" ID="ID_770806882" MODIFIED="1515418107336" TEXT="Page titles, clear links"/>
+<node COLOR="#111111" CREATED="1515418107996" ID="ID_1610038958" MODIFIED="1515418120486" TEXT="Provide error messages"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1514981681087" ID="ID_227773751" MODIFIED="1515417924527" TEXT="AA">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515417947868" ID="ID_95894816" MODIFIED="1515417969880" TEXT="Most prevalent barriers faced by disabled users">
+<node COLOR="#111111" CREATED="1515418127562" ID="ID_1592685224" MODIFIED="1515418147445" TEXT="Video captions"/>
+<node COLOR="#111111" CREATED="1515418151673" ID="ID_788336840" MODIFIED="1515418156229" TEXT="Contrast ratios"/>
+<node COLOR="#111111" CREATED="1515418165088" ID="ID_272259505" MODIFIED="1515418177811" TEXT="Clear labels, headings"/>
+<node COLOR="#111111" CREATED="1515418183671" ID="ID_1775881307" MODIFIED="1515418200810" TEXT="Consistent use of layout, icons, buttons"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1514981678759" ID="ID_1470718013" MODIFIED="1514981680347" TEXT="AAA">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515417975610" ID="ID_1188054541" MODIFIED="1515417988333" TEXT="Most demanding levels of accessibility"/>
+</node>
+<node COLOR="#990000" CREATED="1514981729357" ID="ID_1444130988" MODIFIED="1514981730704" TEXT="Scores">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1514990800172" ID="ID_1607544768" MODIFIED="1514990801204" TEXT="Pass"/>
+<node COLOR="#111111" CREATED="1514990801859" ID="ID_336832374" MODIFIED="1514990806750" TEXT="Marginal Fail">
+<node COLOR="#111111" CREATED="1514990809219" ID="ID_393512151" MODIFIED="1514990818892" TEXT="Fewer than 20 errors"/>
+<node COLOR="#111111" CREATED="1514990821971" ID="ID_1830689130" MODIFIED="1514990836926" TEXT="No more than 10 at single checkpoint"/>
+</node>
+<node COLOR="#111111" CREATED="1515252875097" ID="ID_509906819" MODIFIED="1515252876645" TEXT="Fail"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1515356624373" ID="ID_1184007939" MODIFIED="1515356669103" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Document Accessibility
+    </p>
+    <p>
+      &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Guidelines
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1515356821619" ID="ID_1013466215" MODIFIED="1515356830333" TEXT="Used for screen readers">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#00b439" CREATED="1515356877418" ID="ID_34786071" MODIFIED="1515356898285" TEXT="Do not mimic structural elements with styles">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#00b439" CREATED="1515356913058" ID="ID_1579684781" MODIFIED="1515356923954" TEXT="Avoid complex language">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#00b439" CREATED="1515458872635" ID="ID_1638267419" MODIFIED="1515458878525" TEXT="Alt text">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515459610292" ID="ID_32824335" MODIFIED="1515459624788" TEXT="Textual alternative to non-text elements">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515459644138" ID="ID_1923640361" MODIFIED="1515459961645" TEXT="Text presents content and function (if it is a link) of images">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515459668009" ID="ID_1526123174" MODIFIED="1515459938663" TEXT="Placed in context in content OR in alt attribute">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515459769483" ID="ID_1578295590" MODIFIED="1515459792838" TEXT="Good alt text">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515459793794" ID="ID_1527664877" MODIFIED="1515459803542" TEXT="Accurate and equivalent"/>
+<node COLOR="#111111" CREATED="1515459804914" ID="ID_1724025844" MODIFIED="1515459811594" TEXT="Succinct"/>
+<node COLOR="#111111" CREATED="1515459814553" ID="ID_811558869" MODIFIED="1515459822638" TEXT="Not redundant"/>
+<node COLOR="#111111" CREATED="1515459825985" ID="ID_1710636022" MODIFIED="1515459918534" TEXT="Don&apos;t include &apos;image of...&apos;"/>
+<node COLOR="#111111" CREATED="1515460052453" ID="ID_1956634508" MODIFIED="1515460136148" TEXT="Don&apos;t include &apos;link to...&apos;"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1515356670677" ID="ID_687592990" MODIFIED="1515356721363" TEXT="Structure">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515356745980" ID="ID_856979845" MODIFIED="1515356749627" TEXT="Title">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515356749956" ID="ID_759840366" MODIFIED="1515356752498" TEXT="Headings">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515356760972" ID="ID_311816727" MODIFIED="1515356770943" TEXT="Lists">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1515356931986" ID="ID_866553800" MODIFIED="1515356935174" TEXT="Tables">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515356936122" ID="ID_1563123067" MODIFIED="1515356939035" TEXT="Simple"/>
+<node COLOR="#111111" CREATED="1515356939465" ID="ID_330049044" MODIFIED="1515356943409" TEXT="Header rows"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1515356734756" ID="ID_799625222" MODIFIED="1515356740470" TEXT="Give alternatives">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515356776299" ID="ID_838396228" MODIFIED="1515356781319" TEXT="Images">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515356784659" ID="ID_643545708" MODIFIED="1515356792595" TEXT="Alt text"/>
+</node>
+<node COLOR="#990000" CREATED="1515356781811" ID="ID_342562483" MODIFIED="1515356783374" TEXT="Sounds">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515356802348" ID="ID_1218631160" MODIFIED="1515356808605" TEXT="Captions"/>
+</node>
+<node COLOR="#990000" CREATED="1515356795107" ID="ID_1663823641" MODIFIED="1515356796927" TEXT="Video">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1515356797819" ID="ID_792638683" MODIFIED="1515356800706" TEXT="Transcripts"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1515356722789" ID="ID_1914308953" MODIFIED="1515356774780" TEXT="Identify">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1515356810427" ID="ID_632488488" MODIFIED="1515356819050" TEXT="Language">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+</node>
+</map>

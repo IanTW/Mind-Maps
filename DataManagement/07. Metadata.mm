@@ -1,0 +1,569 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#33ccff" COLOR="#000000" CREATED="1483443755949" ID="ID_900519748" MODIFIED="1484065110632" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Metadata
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#3333ff" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1483569036343" ID="ID_856961818" MODIFIED="1484005012574" POSITION="right" TEXT="What&apos;s the Idea?">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node BACKGROUND_COLOR="#ffff99" COLOR="#00b439" CREATED="1483883823350" ID="ID_1324245065" MODIFIED="1484004359522" TEXT="METADATA is structured information that describes, explains, locates or otherwise makes it easier to retrieve use or manage an information resource">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1484004365430" ID="ID_290754029" MODIFIED="1484004897326" TEXT="Information about information  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+<node COLOR="#990000" CREATED="1484004506981" ID="ID_395874500" MODIFIED="1484004596643" TEXT="Key to ensuring that relevant data will survive and continue to be accessible">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484004475157" ID="ID_202358984" MODIFIED="1484004598437" TEXT="Facilitates the discovery of relevant information  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005401662" ID="ID_873516373" MODIFIED="1484005416890" TEXT="Describes layers of content in a digital resource">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484004382343" ID="ID_1443127560" MODIFIED="1484004392370" TEXT="Definition depends on context">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484004395190" ID="ID_177585694" MODIFIED="1484004416177" TEXT="Machine understandable information">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484004422982" ID="ID_1662805384" MODIFIED="1484004435026" TEXT="Records to describe electronic resources">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484004441701" ID="ID_544563851" MODIFIED="1484004459105" TEXT="Formal schema to describe recource">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484004601028" ID="ID_1140361857" MODIFIED="1484004611200" TEXT="Different communities">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484004612724" ID="ID_1922697983" MODIFIED="1484004619888" TEXT="INDECS">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484004634920" ID="ID_1641152583" MODIFIED="1484004643248" TEXT="Developers of the Interoperability of Data in E-Commerce Systems"/>
+<node COLOR="#111111" CREATED="1484004648260" ID="ID_949438158" MODIFIED="1484004679935" TEXT="Metadata helps protect IP rights"/>
+</node>
+<node COLOR="#990000" CREATED="1484004688116" ID="ID_244623407" MODIFIED="1484004705487" TEXT="Research Library Working Group">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484004706676" ID="ID_853477195" MODIFIED="1484004756383" TEXT="Metadata used for digital master files for preservation-based intent"/>
+</node>
+<node COLOR="#990000" CREATED="1484004779182" ID="ID_126038069" MODIFIED="1484004779183" TEXT="National Information Standards Organization (NISO)">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484004784579" ID="ID_900168780" MODIFIED="1484004801439" TEXT="Technical standards for information management"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484004813523" ID="ID_426643975" MODIFIED="1484004815182" TEXT="Sources">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484004816339" ID="ID_323482998" MODIFIED="1484004825486" TEXT="Automatically generated">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484004826322" ID="ID_1020137516" MODIFIED="1484004842462" TEXT="Supplied by third party">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484004848898" ID="ID_587083026" MODIFIED="1484004858126" TEXT="Supplied by creator of content">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484070437587" ID="ID_1469662170" MODIFIED="1484070448340" TEXT="Author provides &apos;skeleton&apos;"/>
+<node COLOR="#111111" CREATED="1484006953890" ID="ID_1878751049" MODIFIED="1484070475325" TEXT="Technical staff complete and check compliance with standards"/>
+<node COLOR="#111111" CREATED="1484006975842" ID="ID_1543215623" MODIFIED="1484006983886" TEXT="Professional indexers"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484070577883" ID="ID_247204379" MODIFIED="1484070580088" TEXT="Tools">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484070584810" ID="ID_1652280906" MODIFIED="1484070591007" TEXT="Templates for creation">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070592194" ID="ID_1104005799" MODIFIED="1484070605654" TEXT="Markup tools">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484070606801" ID="ID_1072052112" MODIFIED="1484070610982" TEXT="Structure"/>
+<node COLOR="#111111" CREATED="1484070612649" ID="ID_1497347305" MODIFIED="1484070616549" TEXT="Attributes"/>
+</node>
+<node COLOR="#990000" CREATED="1484070624584" ID="ID_1766359579" MODIFIED="1484070629997" TEXT="Extraction tools">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070634391" ID="ID_1063524693" MODIFIED="1484070642732" TEXT="Conversion tools">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484070644103" ID="ID_1543519079" MODIFIED="1484070649452" TEXT="Different formats"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484005013618" ID="ID_341104066" MODIFIED="1484005303577" POSITION="right" TEXT="Uses">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484005016896" ID="ID_117684964" MODIFIED="1484005300470" TEXT="Resource discovery">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484069414515" ID="ID_399199725" MODIFIED="1484069419641" TEXT="Distinguishing between">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484069396283" ID="ID_93227743" MODIFIED="1484069445280" TEXT="Pooling resources">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484069426612" ID="ID_650405636" MODIFIED="1484069429009" TEXT="Locations">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005016899" ID="ID_914015249" MODIFIED="1484005309110" TEXT="Organization of electronic information  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484069453221" ID="ID_447766943" MODIFIED="1484069462826" TEXT="Lists of hyperlinks">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005016919" ID="ID_1594882023" MODIFIED="1484005300472" TEXT="Interoperability">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484069471710" ID="ID_1663985844" MODIFIED="1484069480963" TEXT="Cross-system search">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484069501775" ID="ID_225941650" MODIFIED="1484069507901" TEXT="Metadata harvesting">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005016921" ID="ID_1735221237" MODIFIED="1484005300472" TEXT="Digital identification">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484069513216" ID="ID_934370194" MODIFIED="1484069518484" TEXT="Persistant identifiers">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484069518968" ID="ID_1766208634" MODIFIED="1484069522917" TEXT="E.g. DOI">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005016922" ID="ID_1927927234" MODIFIED="1484005300473" TEXT="Archiving and preservation">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484069532097" ID="ID_1612689134" MODIFIED="1484069559726" TEXT="Future access">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484005051025" ID="ID_1413571597" MODIFIED="1484005286747" POSITION="right" TEXT="Types">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484005058401" ID="ID_1944969011" MODIFIED="1484005282092" TEXT="Descriptive">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005140560" ID="ID_1958321057" MODIFIED="1484005341771" TEXT="Title">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005328880" ID="ID_683751612" MODIFIED="1484005330603" TEXT="Author">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005331343" ID="ID_64293071" MODIFIED="1484005333467" TEXT="Summary">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005334079" ID="ID_1497845894" MODIFIED="1484005336602" TEXT="Topic">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005073025" ID="ID_366092867" MODIFIED="1484005282093" TEXT="Technical &amp; Structural">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005163232" ID="ID_720008010" MODIFIED="1484005282093" TEXT="File size">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005167344" ID="ID_1686140501" MODIFIED="1484005282094" TEXT="S/W needed">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005176864" ID="ID_25418710" MODIFIED="1484005282094" TEXT="File type">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005085201" ID="ID_953578420" MODIFIED="1484005282095" TEXT="Administrative">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005186816" ID="ID_865518830" MODIFIED="1484005282095" TEXT="Aka meta-metadata">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005197776" ID="ID_1711171979" MODIFIED="1484005282096" TEXT="Record number">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005202864" ID="ID_1254450280" MODIFIED="1484005282096" TEXT="Record date">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005209503" ID="ID_10662198" MODIFIED="1484005282097" TEXT="Record source">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005092096" ID="ID_626405876" MODIFIED="1484005282098" TEXT="Rights">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005216607" ID="ID_1463057253" MODIFIED="1484005282098" TEXT="Copyright owner">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005228799" ID="ID_1166735664" MODIFIED="1484005282099" TEXT="License type">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005132336" ID="ID_719103086" MODIFIED="1484005282099" TEXT="Management">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005243312" ID="ID_1303692671" MODIFIED="1484005282100" TEXT="Typically by owner/agency">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005255567" ID="ID_509529069" MODIFIED="1484005282100" TEXT="Price paid">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005260576" ID="ID_484334556" MODIFIED="1484005282101" TEXT="Circulation restrictions">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484065111825" ID="ID_1546106174" MODIFIED="1484070838372" POSITION="left" TEXT="DSpace Repository">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1546106174" ENDARROW="Default" ENDINCLINATION="-70;-339;" ID="Arrow_ID_1129669289" SOURCE="ID_1070005240" STARTARROW="None" STARTINCLINATION="-10;0;"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484065151762" ID="ID_1280593843" MODIFIED="1484065165007" TEXT="Open source">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484065313661" ID="ID_1628679570" MODIFIED="1484065377086" TEXT="Open standards">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#990000" CREATED="1484065322296" ID="ID_721672474" MODIFIED="1484065377086" TEXT="Supports many standards">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#990000" CREATED="1484065335409" ID="ID_852969344" MODIFIED="1484065377086" TEXT="No license fees">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#990000" CREATED="1484065363840" ID="ID_116010425" MODIFIED="1484065377086" TEXT="User friendly UI">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484065165576" ID="ID_1627101008" MODIFIED="1484065172331" TEXT="Any file format">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484065173291" ID="ID_841789258" MODIFIED="1484065175100" TEXT="Text">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484065175529" ID="ID_1824528203" MODIFIED="1484065178665" TEXT="Video">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484065179203" ID="ID_1337326873" MODIFIED="1484065184352" TEXT="Dataset">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484065184610" ID="ID_1712097581" MODIFIED="1484065189056" TEXT="Executable">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484065190904" ID="ID_635816599" MODIFIED="1484065195405" TEXT="Uses">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484065196910" ID="ID_570024517" MODIFIED="1484065215919" TEXT="Capture and ingest of digital resources">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484065218189" ID="ID_1007290254" MODIFIED="1484065230139" TEXT="Access to to digital material">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484065233945" ID="ID_385632710" MODIFIED="1484065235708" TEXT="Search"/>
+<node COLOR="#111111" CREATED="1484065235919" ID="ID_548605021" MODIFIED="1484065236934" TEXT="List"/>
+</node>
+<node COLOR="#990000" CREATED="1484065238361" ID="ID_529327619" MODIFIED="1484065249593" TEXT="Archiving">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484065250522" ID="ID_1894918760" MODIFIED="1484065256060" TEXT="Digital preservation"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484065271321" ID="ID_326451247" MODIFIED="1484065273148" TEXT="Users">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484065275581" ID="ID_1198721598" MODIFIED="1484065279606" TEXT="Libraries">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484065280144" ID="ID_96667467" MODIFIED="1484065287024" TEXT="Academic Institutes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484070908236" ID="ID_578982194" MODIFIED="1484071015285" TEXT="Components">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484070911796" ID="ID_1803726680" MODIFIED="1484070917473" TEXT="Submitter">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070917868" ID="ID_1620557472" MODIFIED="1484070924305" TEXT="Files integrated">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070925812" ID="ID_1808186559" MODIFIED="1484071055822" TEXT="Item grouping by content into a collection">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484071065818" ID="ID_272662456" MODIFIED="1484071077239" TEXT="Community">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070942445" ID="ID_233821662" MODIFIED="1484071095648" TEXT="Functional presentation of data">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484071096227" ID="ID_1639969520" MODIFIED="1484071102793" TEXT="End user interface">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070979000" ID="ID_267260082" MODIFIED="1484071018244">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="07. Metadata_6400527886645564087.jpeg" border="2" />
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484004978322" ID="ID_643331290" MODIFIED="1484005836399" POSITION="left" TEXT="Metadata Schemas">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484005721020" ID="ID_110517930" MODIFIED="1484005744535" TEXT="Dublin Core">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484005903338" ID="ID_31024521" MODIFIED="1484005924470" TEXT="To improve information retrieval for Internet resources">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005927146" ID="ID_884094659" MODIFIED="1484005947238" TEXT="Developed by bibliographic community">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484005961050" ID="ID_373687982" MODIFIED="1484005965686" TEXT="Features">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484005968762" ID="ID_59089900" MODIFIED="1484005975990" TEXT="Simplicity"/>
+<node COLOR="#111111" CREATED="1484005987354" ID="ID_1609824239" MODIFIED="1484006002501" TEXT="Semantic Interoperability"/>
+<node COLOR="#111111" CREATED="1484005987359" ID="ID_1606498038" MODIFIED="1484006006885" TEXT="International Consensus"/>
+<node COLOR="#111111" CREATED="1484005987361" ID="ID_1986854952" MODIFIED="1484005993910" TEXT="Extensibility"/>
+<node COLOR="#111111" CREATED="1484005987363" ID="ID_1483725874" MODIFIED="1484006012245" TEXT="Metadata Modularity on the Web"/>
+</node>
+<node COLOR="#990000" CREATED="1484006017897" ID="ID_1088530917" MODIFIED="1484006039253" TEXT="Classic metadata terms">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484006040825" ID="ID_1002348671" MODIFIED="1484006052438" TEXT="Dublin Core Metadata Element Set"/>
+<node COLOR="#111111" CREATED="1484006069562" ID="ID_1657511353" MODIFIED="1484006070853" TEXT="Content">
+<node COLOR="#111111" CREATED="1484006095880" ID="ID_1876574169" MODIFIED="1484006095881" TEXT="Coverage"/>
+<node COLOR="#111111" CREATED="1484006095883" ID="ID_1644904751" MODIFIED="1484006105013" TEXT="Description"/>
+<node COLOR="#111111" CREATED="1484006095886" ID="ID_1862491582" MODIFIED="1484006107989" TEXT="Type"/>
+<node COLOR="#111111" CREATED="1484006095888" ID="ID_1549401237" MODIFIED="1484006110741" TEXT="Relation"/>
+<node COLOR="#111111" CREATED="1484006095890" ID="ID_1041927259" MODIFIED="1484006113204" TEXT="Source"/>
+<node COLOR="#111111" CREATED="1484006095893" ID="ID_432375026" MODIFIED="1484006115541" TEXT="Subject"/>
+<node COLOR="#111111" CREATED="1484006095895" ID="ID_1465489595" MODIFIED="1484006117717" TEXT="Title"/>
+<node COLOR="#111111" CREATED="1484006095897" ID="ID_1844088181" MODIFIED="1484006120052" TEXT="Date"/>
+<node COLOR="#111111" CREATED="1484006095898" ID="ID_1126232230" MODIFIED="1484006123044" TEXT="Format"/>
+<node COLOR="#111111" CREATED="1484006095900" ID="ID_1054466891" MODIFIED="1484006125188" TEXT="Identifier"/>
+<node COLOR="#111111" CREATED="1484006095902" ID="ID_505942378" MODIFIED="1484006127636" TEXT="Language"/>
+</node>
+<node COLOR="#111111" CREATED="1484006071529" ID="ID_938216493" MODIFIED="1484006083717" TEXT="Intellectual Property">
+<node COLOR="#111111" CREATED="1484006131321" ID="ID_1366165352" MODIFIED="1484006134788" TEXT="Contributor"/>
+<node COLOR="#111111" CREATED="1484006135560" ID="ID_1426191018" MODIFIED="1484006138308" TEXT="Creator"/>
+<node COLOR="#111111" CREATED="1484006138856" ID="ID_5190192" MODIFIED="1484006143332" TEXT="Publisher"/>
+<node COLOR="#111111" CREATED="1484006143752" ID="ID_12755682" MODIFIED="1484006146628" TEXT="Rights"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005753149" ID="ID_372105907" MODIFIED="1484006181643" TEXT="Marc21">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484006197033" ID="ID_10269365" MODIFIED="1484006210708" TEXT="Developed by Library of Congress">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484006183273" ID="ID_803792012" MODIFIED="1484006270548" TEXT="ISO 2709-based communications protocol">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484006227176" ID="ID_162422475" MODIFIED="1484006238292" TEXT="Markup"/>
+<node COLOR="#111111" CREATED="1484006238840" ID="ID_1576290166" MODIFIED="1484006241299" TEXT="Semantics"/>
+<node COLOR="#111111" CREATED="1484006242072" ID="ID_1315654150" MODIFIED="1484006246356" TEXT="Structure"/>
+</node>
+<node COLOR="#990000" CREATED="1484006273304" ID="ID_87240642" MODIFIED="1484006282050" TEXT="Pros">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+<node COLOR="#111111" CREATED="1484006292375" ID="ID_543242616" MODIFIED="1484006299123" TEXT="Well maintained"/>
+<node COLOR="#111111" CREATED="1484006299447" ID="ID_350378227" MODIFIED="1484006307011" TEXT="Mature standard"/>
+<node COLOR="#111111" CREATED="1484006307527" ID="ID_628705006" MODIFIED="1484006322963" TEXT="Widely adopted by libraries"/>
+<node COLOR="#111111" CREATED="1484006325335" ID="ID_215658416" MODIFIED="1484006340099" TEXT="Large universe of records available"/>
+<node COLOR="#111111" CREATED="1484006342904" ID="ID_1808861012" MODIFIED="1484006350659" TEXT="Wide choice of vendors"/>
+</node>
+<node COLOR="#990000" CREATED="1484006276071" ID="ID_1719122734" MODIFIED="1484006284742" TEXT="Cons">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="stop-sign"/>
+<node COLOR="#111111" CREATED="1484006357287" ID="ID_1286273614" MODIFIED="1484006373459" TEXT="Virtually unused outside of library community"/>
+<node COLOR="#111111" CREATED="1484006375016" ID="ID_1563777358" MODIFIED="1484006392563" TEXT="Limits on field and record size"/>
+<node COLOR="#111111" CREATED="1484006394279" ID="ID_1157039889" MODIFIED="1484006434258" TEXT="Limited scope for conveying complex relationships"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484005827532" ID="ID_883279413" MODIFIED="1484006471492" TEXT="MODS">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484006460416" ID="ID_1619646796" MODIFIED="1484006460417" TEXT="Metadata Object Description Schema">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484006472806" ID="ID_1069203517" MODIFIED="1484006495666" TEXT="Variant of Marc21 in XML framework">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484006505814" ID="ID_1626816503" MODIFIED="1484006558798" TEXT="Marc21 converts to MODS easily">
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#111111" CREATED="1484006533253" ID="ID_1263400149" MODIFIED="1484006556246" TEXT="MODS to Marc21 results in data loss">
+<icon BUILTIN="button_cancel"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1484006572613" ID="ID_1208885239" MODIFIED="1484006589057" TEXT="Maintained by Library of Congress">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484007004691" ID="ID_73950805" MODIFIED="1484007016510" POSITION="right" TEXT="Metadata in Business">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484007026050" ID="ID_986846115" MODIFIED="1484007085855" TEXT="Funding and support required to make Metadata Management reality   ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#00b439" CREATED="1484007091010" ID="ID_627052645" MODIFIED="1484007211123" TEXT="Generally not the case - other priorities take precedence  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="smily_bad"/>
+</node>
+<node COLOR="#00b439" CREATED="1484007137634" ID="ID_1526121308" MODIFIED="1484007147485" TEXT="Metadata Initiative">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484007148721" ID="ID_558513378" MODIFIED="1484007197606" TEXT="Sources">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#990000" CREATED="1484007158593" ID="ID_1070005240" MODIFIED="1484065147823" TEXT="Metadata repository">
+<arrowlink COLOR="#b0b0b0" DESTINATION="ID_1546106174" ENDARROW="Default" ENDINCLINATION="-70;-339;" ID="Arrow_ID_1129669289" STARTARROW="None" STARTINCLINATION="-10;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+<node COLOR="#111111" CREATED="1484007476191" ID="ID_1017420486" MODIFIED="1484007488186" TEXT="Generally a database"/>
+</node>
+<node COLOR="#990000" CREATED="1484007171345" ID="ID_930304709" MODIFIED="1484007202507" TEXT="Metadata administrator">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+<node COLOR="#990000" CREATED="1484007181521" ID="ID_1062782104" MODIFIED="1484007204685" TEXT="Policies and procedures">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484007406047" ID="ID_554816113" MODIFIED="1484007415211" TEXT="Metadata Management">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484007423231" ID="ID_501978454" MODIFIED="1484007433531" TEXT="Set of processes">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484007438223" ID="ID_1493186083" MODIFIED="1484007441354" TEXT="Creation">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484007441983" ID="ID_1431627240" MODIFIED="1484007445067" TEXT="Storage">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484007445647" ID="ID_492928172" MODIFIED="1484007449162" TEXT="Integration">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484007450127" ID="ID_732544875" MODIFIED="1484007452619" TEXT="Control">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484007453231" ID="ID_134141103" MODIFIED="1484007458411" TEXT="Versioning">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484070522998" ID="ID_3666246" MODIFIED="1484070533402" TEXT="Quality Control  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484070678261" ID="ID_1758737986" MODIFIED="1484070691673" TEXT="Appropriateness of material">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070699060" ID="ID_1333259403" MODIFIED="1484070714088" TEXT="Support for interoperability">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484070717995" ID="ID_1906693467" MODIFIED="1484070727863" TEXT="If transferring is data lost?"/>
+</node>
+<node COLOR="#990000" CREATED="1484070730210" ID="ID_1834098098" MODIFIED="1484070740311" TEXT="Use of standard vocabulary">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070740905" ID="ID_849332576" MODIFIED="1484070766589" TEXT="Clear conditions &amp; terms of use of object">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070769160" ID="ID_1231386359" MODIFIED="1484070780820" TEXT="Support for long-term management of object">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484070789215" ID="ID_1550010172" MODIFIED="1484070802683" TEXT="Qualities of metadata records">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484070803774" ID="ID_1746587787" MODIFIED="1484070807914" TEXT="Persistance"/>
+<node COLOR="#111111" CREATED="1484070808198" ID="ID_1416113104" MODIFIED="1484070811818" TEXT="Archivability"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1484065393521" ID="ID_1232072310" MODIFIED="1484065395939" POSITION="left" TEXT="Ontology">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1484065419745" ID="ID_1224770423" MODIFIED="1484067948359" TEXT="A formal description of the concepts and relationships that can exist for a domain      ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#00b439" CREATED="1484068068658" ID="ID_724712622" MODIFIED="1484068071821" TEXT="Formally">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484065401391" ID="ID_936438317" MODIFIED="1484068075357" TEXT="A specification of a conceptualisation">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484068031916" ID="ID_1450738097" MODIFIED="1484068034602" TEXT="Why?">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484067916309" ID="ID_1095024644" MODIFIED="1484067957129" TEXT="Provides a common understanding of a domain  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484067985006" ID="ID_1749694419" MODIFIED="1484068044620" TEXT="Domain assumptions are made explicit">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484068003297" ID="ID_632621632" MODIFIED="1484068018416" TEXT="To enable reuse of domain knowledge">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1484068021795" ID="ID_394535799" MODIFIED="1484068058542" TEXT="To analyse domain knowledge">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1484068099744" ID="ID_1543699827" MODIFIED="1484068102835" TEXT="Terminology">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1484068103871" ID="ID_1574489804" MODIFIED="1484068112325" TEXT="Controlled vocabulary">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484068271123" ID="ID_159885880" MODIFIED="1484068278424" TEXT="Set of clear definitions"/>
+</node>
+<node COLOR="#990000" CREATED="1484068234481" ID="ID_260576133" MODIFIED="1484068392272" TEXT="Taxonomy">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484068281603" ID="ID_506808680" MODIFIED="1484068290296" TEXT="Hierarchy of terms"/>
+</node>
+<node COLOR="#990000" CREATED="1484068244577" ID="ID_1419346191" MODIFIED="1484068246622" TEXT="Ontology">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484068296251" ID="ID_1757120112" MODIFIED="1484068306888" TEXT="Taxonomies, data models and business rules"/>
+</node>
+<node COLOR="#990000" CREATED="1484068248354" ID="ID_1182609160" MODIFIED="1484068256566" TEXT="Inference engine">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484068311572" ID="ID_1473476083" MODIFIED="1484068326658" TEXT="Tool that makes ontologies work"/>
+</node>
+<node COLOR="#990000" CREATED="1484068257938" ID="ID_1860626286" MODIFIED="1484068260839" TEXT="Semantics">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1484068335541" ID="ID_579275362" MODIFIED="1484068359308" TEXT="Abstract concept - the meaning of the data"/>
+</node>
+</node>
+</node>
+</node>
+</map>

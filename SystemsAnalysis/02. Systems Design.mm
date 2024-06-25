@@ -1,0 +1,530 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#3333ff" CREATED="1418468692618" ID="ID_1654271514" MODIFIED="1418500814666" TEXT="Systems Design">
+<edge COLOR="#3333ff"/>
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1418469142908" ID="ID_755578577" MODIFIED="1418488508240" POSITION="right" TEXT="Analysis Model">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1418469301627" ID="ID_816774971" MODIFIED="1418469318612" TEXT="Specifies what deisgners must design">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#00b439" CREATED="1418472552500" ID="ID_253307518" MODIFIED="1418472565752" TEXT="Generally focused on the application domain">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418469357915" ID="ID_1007892345" MODIFIED="1418472576801" TEXT="What the software must do  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418469371242" ID="ID_1245365002" MODIFIED="1418469391111" TEXT="Shows concepts, people and and things important for understanding">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418469400443" ID="ID_1292279299" MODIFIED="1418472550609" TEXT="Is or organised and structured  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418469342395" ID="ID_1750811004" MODIFIED="1418470089025" TEXT="Qualities">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418469159981" ID="ID_194982442" MODIFIED="1418469353173" TEXT="Understandable for Users">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418469173804" ID="ID_1942392563" MODIFIED="1418469353175" TEXT="Correct scope">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418469178189" ID="ID_1953401998" MODIFIED="1418469353177" TEXT="Correct detail">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418469184364" FOLDED="true" ID="ID_217799224" MODIFIED="1418488508241" TEXT="Complete">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418469252443" ID="ID_142914735" MODIFIED="1418469353179" TEXT="Functional requirements">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418469273371" ID="ID_88876954" MODIFIED="1418469353180" TEXT="Non-functional requiremnets">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418469189052" FOLDED="true" ID="ID_850191980" MODIFIED="1418488508242" TEXT="Consistent between diagrams and models">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418469226316" ID="ID_1768429265" MODIFIED="1418469353185" TEXT="Names of classes">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418469239660" ID="ID_985335243" MODIFIED="1418469353186" TEXT="Names of Operations">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418472603668" ID="ID_877712836" MODIFIED="1418488508246" POSITION="left" TEXT="Role of Classes">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1418472622774" ID="ID_550419671" MODIFIED="1418472673556" TEXT="Classes identify things users or designers use to describe the problem or solution  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418472622781" ID="ID_1029274845" MODIFIED="1418472622782" TEXT="Classes should reflect the application.">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418472622772" ID="ID_919103469" MODIFIED="1418472719719" TEXT="Classes should capture the vocabulary of the system  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418472622783" ID="ID_1022902631" MODIFIED="1418472725861" TEXT="Classes should have descriptive names">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418472622786" ID="ID_1200787956" MODIFIED="1418472727233" TEXT="Classes should have a clear description">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418472622788" ID="ID_1720445569" MODIFIED="1418472622790" TEXT="Classes should have a set of related responsibilities.">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418473480670" ID="ID_673373925" MODIFIED="1418490055795" POSITION="right" TEXT="Analysis to Design">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1418490064026" ID="ID_544156886" MODIFIED="1418490066230" TEXT="Analysis">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418473493726" ID="ID_718274551" MODIFIED="1418490074222" TEXT="Requirements">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418474017579" ID="ID_152052144" MODIFIED="1418490074223" TEXT="Functional">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418474021738" ID="ID_1453788307" MODIFIED="1418490074224" TEXT="Non-functional">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418474006999" ID="ID_1875414122" MODIFIED="1418490076151" TEXT="Use Cases">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418473575710" ID="ID_727887230" MODIFIED="1418490076152" TEXT="Use Case Diagram">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418473506126" ID="ID_640093769" MODIFIED="1418490078226" TEXT="Use Case Analysis">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418473760492" ID="ID_682324786" MODIFIED="1418490078227" TEXT="Analysis Classes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418473713516" ID="ID_279849522" MODIFIED="1418490078228" TEXT="Analysis Class Diagram">
+<edge STYLE="bezier" WIDTH="thin"/>
+<arrowlink DESTINATION="ID_474378109" ENDARROW="Default" ENDINCLINATION="256;44;" ID="Arrow_ID_1135254508" STARTARROW="None" STARTINCLINATION="147;23;"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1418473788716" ID="ID_559679018" MODIFIED="1418490035631" TEXT="Conceptual model for things in the system">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1418473810364" ID="ID_603938880" MODIFIED="1418478040970" TEXT="Rough 1st draft">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1418474750197" ID="ID_834959106" MODIFIED="1418496220417" TEXT="Domain modelling">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="full-1"/>
+</node>
+<node COLOR="#111111" CREATED="1418478050446" ID="ID_62203602" MODIFIED="1418490035632" TEXT=" Robustness Analysis">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="full-2"/>
+</node>
+<node COLOR="#111111" CREATED="1418496228445" ID="ID_1298607052" MODIFIED="1418496238913" TEXT="Sequence Diagrams">
+<icon BUILTIN="full-3"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418490067321" ID="ID_460469236" MODIFIED="1418490069478" TEXT="Design">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418473510190" ID="ID_185548241" MODIFIED="1418490085381" TEXT="Design Class Diagram">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418492974101" ID="ID_549980836" MODIFIED="1418492990737" TEXT="Comprised by:">
+<node COLOR="#111111" CREATED="1418492992244" ID="ID_527327790" MODIFIED="1418502590328" TEXT="Copy use case text"/>
+<node COLOR="#111111" CREATED="1418493008500" ID="ID_1356000512" MODIFIED="1418493012865" TEXT="Entity objects"/>
+<node COLOR="#111111" CREATED="1418493020068" ID="ID_1897522303" MODIFIED="1418493024385" TEXT="Boundary objects"/>
+<node COLOR="#111111" CREATED="1418493026052" ID="ID_1451196513" MODIFIED="1418493033136" TEXT="Actors"/>
+<node COLOR="#111111" CREATED="1418493034340" ID="ID_1629751465" MODIFIED="1418496135883" TEXT="Assign operations to cllasses"/>
+</node>
+<node COLOR="#111111" CREATED="1418496319582" ID="ID_1951610210" MODIFIED="1418496423496" TEXT="&apos;Real Classes&apos; derived from:">
+<node COLOR="#111111" CREATED="1418496425996" ID="ID_1316949341" MODIFIED="1418496429865" TEXT="Entity classes"/>
+<node COLOR="#111111" CREATED="1418496430508" ID="ID_1222071979" MODIFIED="1418496447097" TEXT="Boundary classes"/>
+<node COLOR="#111111" CREATED="1418496447756" ID="ID_674481208" MODIFIED="1418496453705" TEXT="Controller classes"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418473530701" ID="ID_1372373044" MODIFIED="1418490087639" TEXT="Software code">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418474071114" ID="ID_474378109" MODIFIED="1418496381610" POSITION="right" TEXT="Domain Modelling">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_474378109" ENDARROW="Default" ENDINCLINATION="256;44;" ID="Arrow_ID_1135254508" SOURCE="ID_279849522" STARTARROW="None" STARTINCLINATION="147;23;"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="full-1"/>
+<node COLOR="#00b439" CREATED="1418474097289" ID="ID_556635462" MODIFIED="1418474638334" TEXT="Domain Class">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418477031189" ID="ID_694447816" MODIFIED="1418477059116" TEXT="These are conceptual classes at this stage">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#990000" CREATED="1418474328360" ID="ID_207729789" MODIFIED="1418474638335" TEXT="Type of object with common features">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418474415112" FOLDED="true" ID="ID_808848060" MODIFIED="1418488508279" TEXT="Business entities/things">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418474429415" ID="ID_1658329270" MODIFIED="1418474432564" TEXT="Order"/>
+<node COLOR="#111111" CREATED="1418474437735" ID="ID_237367245" MODIFIED="1418474440740" TEXT="Transaction"/>
+</node>
+<node COLOR="#990000" CREATED="1418474443415" FOLDED="true" ID="ID_1713990828" MODIFIED="1418488508279" TEXT="Real world enttity">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418474465494" ID="ID_1327026602" MODIFIED="1418474468020" TEXT="Site"/>
+<node COLOR="#111111" CREATED="1418474468535" ID="ID_1753037767" MODIFIED="1418474472116" TEXT="Contact"/>
+</node>
+<node COLOR="#990000" CREATED="1418474483478" FOLDED="true" ID="ID_1037387407" MODIFIED="1418488508280" TEXT="Events">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418474515942" ID="ID_1179825826" MODIFIED="1418474517987" TEXT="Sales"/>
+<node COLOR="#111111" CREATED="1418474518358" ID="ID_893873486" MODIFIED="1418474524980" TEXT="Payment"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418474188410" ID="ID_1742065868" MODIFIED="1418474638341" TEXT="Attribute">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418474320952" ID="ID_694609299" MODIFIED="1418474638342" TEXT="Properties">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418474191017" ID="ID_307378937" MODIFIED="1418474638344" TEXT="Associations">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418474308631" ID="ID_405249133" MODIFIED="1418474638345" TEXT="Relationships">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418474766613" ID="ID_43601376" MODIFIED="1418477197725" TEXT="How to make a model">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418474795509" ID="ID_1614348251" MODIFIED="1418474814081" TEXT="Reuse existing models">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418474824868" FOLDED="true" ID="ID_1470369534" MODIFIED="1418488508281" TEXT="Use noun phrases from requirements">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418476913301" ID="ID_1616743115" MODIFIED="1418476923154" TEXT="Nouns"/>
+<node COLOR="#111111" CREATED="1418476923958" ID="ID_422817286" MODIFIED="1418476928834" TEXT="Sequences of nouns"/>
+<node COLOR="#111111" CREATED="1418476933270" FOLDED="true" ID="ID_488721653" MODIFIED="1418488508281" TEXT="E.g.">
+<node COLOR="#111111" CREATED="1418476937734" ID="ID_971414963" MODIFIED="1418476960738" TEXT="Cashier"/>
+<node COLOR="#111111" CREATED="1418476961221" ID="ID_1627040696" MODIFIED="1418476963122" TEXT="Sale"/>
+<node COLOR="#111111" CREATED="1418476963861" ID="ID_1493416661" MODIFIED="1418476966321" TEXT="Taxes"/>
+<node COLOR="#111111" CREATED="1418476967878" ID="ID_1895779453" MODIFIED="1418476973586" TEXT="Receipt"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418475455488" ID="ID_1138756074" MODIFIED="1418477242287" TEXT="Use Category Lists">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1138756074" ENDARROW="Default" ENDINCLINATION="536;-136;" ID="Arrow_ID_109804781" SOURCE="ID_805493196" STARTARROW="None" STARTINCLINATION="-43;213;"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418477273587" FOLDED="true" ID="ID_896180837" MODIFIED="1418488508282" TEXT="Common errors">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418477284195" ID="ID_1752756732" MODIFIED="1418477344096" TEXT="An entity is represented as an attribute instead of a concept"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418477147295" ID="ID_1373161195" MODIFIED="1418477158145">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="Systems Design_8864740986305462813.jpeg" />
+  </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418474815732" ID="ID_805493196" MODIFIED="1418488508309" POSITION="left" TEXT="Category Lists">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<arrowlink DESTINATION="ID_1138756074" ENDARROW="Default" ENDINCLINATION="536;-136;" ID="Arrow_ID_109804781" STARTARROW="None" STARTINCLINATION="-43;213;"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1418474978581" ID="ID_248658855" MODIFIED="1418475429744" TEXT="Transactions">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475062355" FOLDED="true" ID="ID_1141746309" MODIFIED="1418488508310" TEXT="Type">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418475074690" ID="ID_1215856887" MODIFIED="1418475078144" TEXT="Sale"/>
+<node COLOR="#111111" CREATED="1418475078563" ID="ID_1675461540" MODIFIED="1418475081968" TEXT="Payment"/>
+<node COLOR="#111111" CREATED="1418475082259" ID="ID_867821016" MODIFIED="1418475087360" TEXT="Reservation"/>
+</node>
+<node COLOR="#990000" CREATED="1418475033155" ID="ID_643676628" MODIFIED="1418475429746" TEXT="Line items">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475040354" ID="ID_1386299588" MODIFIED="1418475429746" TEXT="Product">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475044099" ID="ID_1190394497" MODIFIED="1418475429747" TEXT="Service">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475094306" FOLDED="true" ID="ID_1962914657" MODIFIED="1418488508311" TEXT="Location">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418475098371" ID="ID_478630659" MODIFIED="1418475102736" TEXT="Ledger"/>
+<node COLOR="#111111" CREATED="1418475103202" ID="ID_1258085233" MODIFIED="1418475105439" TEXT="Register"/>
+</node>
+<node COLOR="#990000" CREATED="1418475114051" FOLDED="true" ID="ID_318991491" MODIFIED="1418488508311" TEXT="Actors">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418475120546" ID="ID_961030727" MODIFIED="1418475122655" TEXT="Cashier"/>
+<node COLOR="#111111" CREATED="1418475123138" ID="ID_993339655" MODIFIED="1418475128351" TEXT="Customer"/>
+<node COLOR="#111111" CREATED="1418475128610" ID="ID_987407382" MODIFIED="1418475135919" TEXT="Supplier"/>
+<node COLOR="#111111" CREATED="1418475141090" ID="ID_222280647" MODIFIED="1418475144911" TEXT="Creditor"/>
+</node>
+<node COLOR="#990000" CREATED="1418475168306" FOLDED="true" ID="ID_1121725408" MODIFIED="1418488508312" TEXT="Place">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418475180689" ID="ID_1228544094" MODIFIED="1418475182894" TEXT="Store"/>
+<node COLOR="#111111" CREATED="1418475183490" ID="ID_228653138" MODIFIED="1418475189871" TEXT="Online"/>
+<node COLOR="#111111" CREATED="1418475193186" ID="ID_670098526" MODIFIED="1418475197374" TEXT="Aiport"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475211730" ID="ID_1949100338" MODIFIED="1418475429754" TEXT="Objects">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475217265" ID="ID_839388361" MODIFIED="1418475429755" TEXT="Item">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475219698" ID="ID_1989537880" MODIFIED="1418475429756" TEXT="Piece">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475244689" ID="ID_492371026" MODIFIED="1418477467422" TEXT="Descriptions">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475251201" ID="ID_1936085709" MODIFIED="1418475429758" TEXT="Products">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418477468322" ID="ID_452575814" MODIFIED="1418477501967" TEXT="Describes other objects">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475286001" ID="ID_1680020460" MODIFIED="1418475429760" TEXT="Other systems">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475297185" ID="ID_1181863753" MODIFIED="1418475429761" TEXT="Databases">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475309633" ID="ID_1733326760" MODIFIED="1418475429762" TEXT="Controllers">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475328225" ID="ID_390980106" MODIFIED="1418475429763" TEXT="Records">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475337792" ID="ID_1562141897" MODIFIED="1418475429764" TEXT="Finance">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475344913" ID="ID_1128470238" MODIFIED="1418475429765" TEXT="Legal">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475348801" ID="ID_1602144087" MODIFIED="1418475429766" TEXT="Contracts">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475361809" ID="ID_198859289" MODIFIED="1418475429767" TEXT="Financial Instruments">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418475369712" ID="ID_779039923" MODIFIED="1418475429768" TEXT="Cheque">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475373360" ID="ID_1507718647" MODIFIED="1418475429769" TEXT="Cash">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475376066" ID="ID_1297610504" MODIFIED="1418475429770" TEXT="Ticket">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418475380592" ID="ID_335318150" MODIFIED="1418475429770" TEXT="Credit">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418475391408" ID="ID_1104850342" MODIFIED="1418475429772" TEXT="Schedules, manuals, documents">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418488517588" ID="ID_1663989750" MODIFIED="1418491547169" POSITION="left" TEXT="Robustness Analysis">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<icon BUILTIN="full-2"/>
+<node COLOR="#00b439" CREATED="1418488759811" ID="ID_1270770380" MODIFIED="1418488777161">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <img src="Systems Design_6212945653108607477.jpeg" />
+  </body>
+</html></richcontent>
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1418488595620" ID="ID_305247447" MODIFIED="1418488608951" TEXT="Bridges gap between what and how">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+<node COLOR="#990000" CREATED="1418489137568" ID="ID_238781666" MODIFIED="1418489164036" TEXT="Basis for Sequence Diagrams">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="idea"/>
+</node>
+<node COLOR="#990000" CREATED="1418488667475" ID="ID_647311599" MODIFIED="1418489382946" TEXT="Abstracts away from the entity classes  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418488542932" ID="ID_667737091" MODIFIED="1418488560721" TEXT="Ensure classes are robust to meet use case requirements">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418489035232" ID="ID_576797317" MODIFIED="1418491536862" TEXT="Class Discovery">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489044320" ID="ID_1017354486" MODIFIED="1418491536863" TEXT="Find classes missing from the domain model">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418489066848" ID="ID_1126285223" MODIFIED="1418491536864" TEXT="&lt;&lt;boundary&gt;&gt;, &lt;&lt;control&gt;&gt;, &lt;&lt;interface&gt;&gt; types">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418489118145" ID="ID_255701098" MODIFIED="1418491538558" TEXT="Completeness Check">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489177759" ID="ID_1862254253" MODIFIED="1418491538559" TEXT="Ensure alternate paths are covered">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1418489125104" ID="ID_1903545215" MODIFIED="1418491540442" TEXT="Sanity Check">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489206271" ID="ID_589155223" MODIFIED="1418491540443" TEXT="Is it reasonable">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1418489212767" ID="ID_1106422148" MODIFIED="1418491540444" TEXT="Can it be implemented">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418489396509" ID="ID_61137127" MODIFIED="1418489399780" TEXT="Symbols">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418489370947" ID="ID_481652912" MODIFIED="1418489608403">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="Systems Design_4806747772932402532.jpeg" style="width: 150px" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418489713181" ID="ID_1583674366" MODIFIED="1418489825783" TEXT="Boundary Object">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489722076" ID="ID_1432054548" MODIFIED="1418489730089" TEXT="External facing screens"/>
+<node COLOR="#111111" CREATED="1418489731516" ID="ID_1998335414" MODIFIED="1418489736057" TEXT="Dialogs"/>
+<node COLOR="#111111" CREATED="1418489737451" ID="ID_1768018813" MODIFIED="1418489739688" TEXT="Menus"/>
+<node COLOR="#111111" CREATED="1418489740203" ID="ID_1986136054" MODIFIED="1418489742936" TEXT="Webpages"/>
+</node>
+<node COLOR="#990000" CREATED="1418489745995" ID="ID_681988816" MODIFIED="1418489821272" TEXT="Entity Object">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489757771" ID="ID_982263346" MODIFIED="1418489765944" TEXT="Usually from domain model"/>
+</node>
+<node COLOR="#990000" CREATED="1418489810746" ID="ID_992877474" MODIFIED="1418489815911" TEXT="Control Object">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418489840427" ID="ID_10774742" MODIFIED="1418489858328" TEXT="Logic and process control"/>
+<node COLOR="#111111" CREATED="1418489859146" ID="ID_1757760913" MODIFIED="1418489884439" TEXT="Glues entities and boundary objects"/>
+<node COLOR="#111111" CREATED="1418496615596" ID="ID_1751366900" MODIFIED="1418496628583" TEXT="Tell other objects what to do"/>
+<node COLOR="#111111" CREATED="1418498209201" ID="ID_1596630377" MODIFIED="1418498218524" TEXT="Usually a software function"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418491553263" ID="ID_180158056" MODIFIED="1418491567675" TEXT="How to conduct">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418491570446" ID="ID_1878729469" MODIFIED="1418491581723" TEXT="Walk through all use cases">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418491590830" ID="ID_731776897" MODIFIED="1418491634586" TEXT="Draw all objects">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418491635614" ID="ID_1441741061" MODIFIED="1418491640667" TEXT="Actors"/>
+<node COLOR="#111111" CREATED="1418491641630" ID="ID_1668377959" MODIFIED="1418491645066" TEXT="Boundaries"/>
+<node COLOR="#111111" CREATED="1418491650781" ID="ID_1324370994" MODIFIED="1418491661354" TEXT="Entity objects"/>
+<node COLOR="#111111" CREATED="1418491663485" ID="ID_1053347485" MODIFIED="1418491668282" TEXT="Controllers"/>
+<node COLOR="#111111" CREATED="1418491668813" ID="ID_92795846" MODIFIED="1418491673195" TEXT="Connections"/>
+</node>
+<node COLOR="#990000" CREATED="1418491679086" ID="ID_1429512035" MODIFIED="1418491698743" TEXT="Rules">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
+<node COLOR="#111111" CREATED="1418491693752" ID="ID_415793050" MODIFIED="1418491693753" TEXT="Actors can only talk to boundary objects."/>
+<node COLOR="#111111" CREATED="1418491693754" ID="ID_774501171" MODIFIED="1418491693754" TEXT="Boundary objects can only talk to controllers and actors."/>
+<node COLOR="#111111" CREATED="1418491693756" ID="ID_1967668735" MODIFIED="1418491693757" TEXT="Entity objects can only talk to controllers."/>
+<node COLOR="#111111" CREATED="1418491693758" ID="ID_1793999772" MODIFIED="1418491693758" TEXT="Controllers can talk to boundary objects and entity objects, and to other controllers, but not to actors"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1418500817581" ID="ID_1776654512" MODIFIED="1418500964289" POSITION="right" TEXT="Sequence Diagrams">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1418500870061" ID="ID_187849879" MODIFIED="1418500883017" TEXT="Allocate behaviours to classes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418500890973" ID="ID_1604466921" MODIFIED="1418500954648" TEXT="Classes are identified during robustness analysis">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418500912284" ID="ID_1630513660" MODIFIED="1418500956085" TEXT="Controllers become operations">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418500936301" ID="ID_1733324976" MODIFIED="1418500956086" TEXT="One or more operations">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418500964290" ID="ID_1000846866" MODIFIED="1418500976585" TEXT="Show how classes interact">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418500982220" ID="ID_461103723" MODIFIED="1418501004216" TEXT="How the system accomplishes the behaviour described in use cases">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1418501326746" ID="ID_1211399972" MODIFIED="1418501330070" TEXT="Components">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1418501331929" ID="ID_175909522" MODIFIED="1418501337126" TEXT="Active objects">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1418501337833" ID="ID_64951753" MODIFIED="1418501347782" TEXT="Communication between objects">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1418501349065" ID="ID_404834148" MODIFIED="1418501352454" TEXT="Messages">
+<node COLOR="#111111" CREATED="1418501447513" ID="ID_1940719332" MODIFIED="1418501466374" TEXT="Activate an operation in the receiving object"/>
+</node>
+<node COLOR="#111111" CREATED="1418501371273" ID="ID_1422203861" MODIFIED="1418501389461" TEXT="Arrows indicate">
+<node COLOR="#111111" CREATED="1418501390585" ID="ID_477464996" MODIFIED="1418501394758" TEXT="Sender sent message"/>
+<node COLOR="#111111" CREATED="1418501395193" ID="ID_1506845968" MODIFIED="1418501404854" TEXT="Reciver recieves message"/>
+<node COLOR="#111111" CREATED="1418501405336" ID="ID_1322668823" MODIFIED="1418501418966" TEXT="Receiver acts on message and returns result"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>

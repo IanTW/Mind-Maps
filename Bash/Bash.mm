@@ -1,0 +1,842 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node BACKGROUND_COLOR="#00ffff" COLOR="#000000" CREATED="1486981677571" ID="ID_1676793126" MODIFIED="1603283194055" STYLE="fork">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Bash Cheat
+    </p>
+    <p style="text-align: center">
+      Sheet
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#808080" STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1487006233650" ID="ID_327882172" MODIFIED="1589022172389" POSITION="left" TEXT="Packages">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1491211930133" ID="ID_1872899579" MODIFIED="1589022172389" TEXT="Update/Refresh">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491211951597" ID="ID_576491917" MODIFIED="1589022172389" TEXT="sudo apt-get update">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491211923556" ID="ID_878213014" MODIFIED="1589022172389" TEXT="Upgrade">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491211941741" ID="ID_1434320873" MODIFIED="1589022172390" TEXT="sudo apt-get upgrade">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491211937604" ID="ID_831683090" MODIFIED="1589022172390" TEXT="Install">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491211960702" ID="ID_550731752" MODIFIED="1589022172390" TEXT="sudo apt-get install packagename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212537542" ID="ID_1910715536" MODIFIED="1589022172390" TEXT="Remove">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212544758" ID="ID_45083615" MODIFIED="1589022172390" TEXT="sudo apt-get remove packagename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212618233" ID="ID_1962754541" MODIFIED="1589022172390" TEXT="List">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212620538" ID="ID_1726435725" MODIFIED="1589022172390" TEXT="apt list --installed &gt; ~/Package.list">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1506695636562" ID="ID_116178888" MODIFIED="1589022172390" TEXT="or">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1541152314361" ID="ID_1804057138" MODIFIED="1589022172390" TEXT="dpkg --get-selections &gt; ~/Package.list">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1498563311008" ID="ID_1599567827" MODIFIED="1589022172390" TEXT="Deb file">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1498563315564" ID="ID_1040936185" MODIFIED="1589022172390" TEXT="wget http://etc/etc/etc/*.deb">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1536226933641" ID="ID_1567045727" MODIFIED="1589022172390" TEXT="Find package for missing file">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1541157848823" ID="ID_1619510043" LINK="https://packages.ubuntu.com/" MODIFIED="1589022172390" TEXT="https://packages.ubuntu.com/">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1541157194797" ID="ID_1159671818" MODIFIED="1589022172391" TEXT="Find package for installed file">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1541157240842" ID="ID_431664590" MODIFIED="1589022172391" TEXT="dkpg -S /path/to/file">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1541157799480" ID="ID_1310896038" MODIFIED="1589022172391" TEXT="apt-file search &apos;path/to/file&apos;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1543529748251" ID="ID_282343732" MODIFIED="1589022172391" POSITION="right" TEXT="Introduction">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1487080905505" ID="ID_1832768473" MODIFIED="1589022172391" TEXT="Manual page">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080700954" ID="ID_793828704" MODIFIED="1589022172391" TEXT="man unixcommand">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080928626" ID="ID_1770372466" MODIFIED="1589022172392" TEXT="Find manual page">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080922994" ID="ID_1329809308" MODIFIED="1589022172392" TEXT="apropos">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080944315" ID="ID_461509771" MODIFIED="1589022172392" TEXT="Look at environment">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080940410" ID="ID_1721930081" MODIFIED="1589022172392" TEXT="env">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487081000733" ID="ID_558832040" MODIFIED="1589022172392" TEXT="Exit shell">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080982653" ID="ID_1345140429" MODIFIED="1589022172392" TEXT="exit">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212072874" ID="ID_1183467276" MODIFIED="1589022172392" TEXT="Reboot">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212076986" ID="ID_1810814405" MODIFIED="1589022172392" TEXT="reboot">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491213205811" ID="ID_683779800" MODIFIED="1589022172392" TEXT="Startup">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491213317810" ID="ID_1998123187" MODIFIED="1589022172392" TEXT="ps -p1 | grep systemd &amp;&amp; echo systemd || echo upstart">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1487080624406" ID="ID_302930674" MODIFIED="1589022172392" POSITION="right" TEXT="File">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1487080790100" ID="ID_1732602840" MODIFIED="1589022172393" TEXT="Print all">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080616021" ID="ID_49277642" MODIFIED="1589022172393" TEXT="cat">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080784372" ID="ID_916221438" MODIFIED="1589022172393" TEXT="Copy">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080782197" ID="ID_1683765136" MODIFIED="1589022172393" TEXT="cp">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491571371681" ID="ID_1776126575" MODIFIED="1589022172393" TEXT="To current folder">
+<node COLOR="#111111" CREATED="1505472424108" ID="ID_844462191" MODIFIED="1589022172393" TEXT="Note the dot at the end">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#111111" CREATED="1491571384658" ID="ID_1098636469" MODIFIED="1589022172393" TEXT="cp -i /path/to/file/filename ."/>
+</node>
+<node COLOR="#111111" CREATED="1491571412521" ID="ID_1460541519" MODIFIED="1589022172393" TEXT="To other folder">
+<node COLOR="#111111" CREATED="1491571384658" ID="ID_72742354" MODIFIED="1589022172393" TEXT="cp -i /path/to/file/filename path/to/folder"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080608157" ID="ID_1980226637" MODIFIED="1589022172393" TEXT="Page through">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080809613" ID="ID_87490833" MODIFIED="1589022172393" TEXT="less">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080841431" ID="ID_18606446" MODIFIED="1589022172394" TEXT="Find">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1505212975484" ID="ID_1419604198" MODIFIED="1589022172394" TEXT="find /path/to/dir -name &quot;filename&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1498649891894" ID="ID_496959992" MODIFIED="1589022172394" TEXT="locate filename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080873449" ID="ID_1476885512" MODIFIED="1589022172394" TEXT="Find inside">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080870024" ID="ID_724335769" MODIFIED="1589022172394" TEXT="grep">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212868805" ID="ID_1006523833" MODIFIED="1589022172394" TEXT="Edit">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212872373" ID="ID_489246784" MODIFIED="1589022172394" TEXT="sudo gedit filename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491216582059" ID="ID_73268069" MODIFIED="1589022172394" TEXT="Make">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491216587562" ID="ID_741252939" MODIFIED="1589022172394" TEXT="touch filename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1493294913302" ID="ID_1151990870" MODIFIED="1589022172394" TEXT="Files with spaces in name">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1493294922177" ID="ID_279368714" MODIFIED="1589022172394" TEXT="Use escape character">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1493294993117" ID="ID_530343573" MODIFIED="1589022172394" TEXT="Eg. Remove file called Dr Watson.txt">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1493294931657" ID="ID_705579326" MODIFIED="1589022172394" TEXT="rm Dr\ Watson.txt  ">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1498218131985" ID="ID_1780792623" MODIFIED="1589022172394" TEXT="Delete">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1498218136376" ID="ID_57985588" MODIFIED="1589022172395" TEXT="rm filename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1498218141487" ID="ID_524620914" MODIFIED="1589022172395" TEXT="All files in directory">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1498218152961" ID="ID_151527559" MODIFIED="1589022172395" TEXT="rm *"/>
+<node COLOR="#111111" CREATED="1498218157528" ID="ID_840798875" MODIFIED="1589022172395" TEXT="rm path/to/directory/*"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1505474585684" ID="ID_713244817" MODIFIED="1589022172395" TEXT="Permission">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1505474590137" ID="ID_906376681" MODIFIED="1589022172395" TEXT="Make file executable">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1505474600624" ID="ID_1358387845" MODIFIED="1589022172395" TEXT="chmod a+x filename">
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1358387845" ENDARROW="Default" ENDINCLINATION="350;0;" ID="Arrow_ID_1000127329" SOURCE="ID_1286926262" STARTARROW="None" STARTINCLINATION="350;0;"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1540200035749" ID="ID_1236684979" MODIFIED="1589022172395" TEXT="chmod +755 /usr/local/bin/PRS.sh"/>
+</node>
+<node COLOR="#990000" CREATED="1529485622848" ID="ID_1133616814" MODIFIED="1589022172395" TEXT="Show as numeric output">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1529485634303" ID="ID_902045165" MODIFIED="1589022172395" TEXT="stat -c &apos;%a %n&apos; path/to/folder/*"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1585735956230" ID="ID_1174594305" MODIFIED="1589022172395" TEXT="Find large files">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1585735963500" ID="ID_761960071" MODIFIED="1589022172395" TEXT="sudo du -x / | sort -n | tail -40">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1487080707057" ID="ID_1242237543" MODIFIED="1589022172395" POSITION="right" TEXT="Directories">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1487080539754" ID="ID_1053126916" MODIFIED="1589022172396" TEXT="Print working">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080533428" ID="ID_1533910069" MODIFIED="1589022172396" TEXT="pwd">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080654888" ID="ID_1970199936" MODIFIED="1589022172396" TEXT="Change">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080569908" ID="ID_921879320" MODIFIED="1589022172396" TEXT="cd">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1487081309778" ID="ID_1646389863" MODIFIED="1589022172396" TEXT="cd ~">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1487081315091" ID="ID_423371573" MODIFIED="1589022172396" TEXT="Back to home"/>
+</node>
+<node COLOR="#111111" CREATED="1487081428216" ID="ID_1757289479" MODIFIED="1589022172396" TEXT="cd foo/">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1487081438688" ID="ID_1552448806" MODIFIED="1589022172396" TEXT="Down"/>
+</node>
+<node COLOR="#111111" CREATED="1487081506523" ID="ID_1772376442" MODIFIED="1589022172397" TEXT="cd ..">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1487081510651" ID="ID_1666335292" MODIFIED="1589022172397" TEXT="Up level"/>
+</node>
+<node COLOR="#111111" CREATED="1487082710589" ID="ID_440547298" MODIFIED="1589022172397" TEXT="cd../../..">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1487082719221" ID="ID_1496177142" MODIFIED="1589022172397" TEXT="Up levels"/>
+</node>
+<node COLOR="#111111" CREATED="1487082832742" ID="ID_643332247" MODIFIED="1589022172397" TEXT=" cd &quot;this dir has spaces&quot;">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080644471" ID="ID_1721931370" MODIFIED="1589022172397" TEXT="Make ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080562059" ID="ID_524006064" MODIFIED="1589022172397" TEXT="mkdir">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1487082000927" ID="ID_1001461223" MODIFIED="1589022172397" TEXT="mkdir test">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1487082011485" ID="ID_700212094" MODIFIED="1589022172397" TEXT="mkdir test/new">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1487082021076" ID="ID_125636923" MODIFIED="1589022172398" TEXT="mkdir -p test/new/another/andanother">
+<font ITALIC="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080698288" ID="ID_893039774" MODIFIED="1589022172398" TEXT="Remove">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080579643" ID="ID_1083337776" MODIFIED="1589022172398" TEXT="rmdir">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1498730507941" ID="ID_82674989" MODIFIED="1589022172398" TEXT="Remove all files and subdirectories">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1498730533622" ID="ID_1268696661" MODIFIED="1589022172398" TEXT="DANGER">
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#111111" CREATED="1498730528037" ID="ID_731008820" MODIFIED="1589022172398" TEXT="rm -rf mydir"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080670535" ID="ID_901656704" MODIFIED="1589022172398" TEXT="List ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080574364" ID="ID_1777466647" MODIFIED="1589022172398" TEXT="ls">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1612276032334" ID="ID_945644610" MODIFIED="1612276050086" TEXT="ls | wc -l">
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1612276055001" ID="ID_341217072" MODIFIED="1612276060902" TEXT="Count number of files"/>
+</node>
+<node COLOR="#111111" CREATED="1491211632393" ID="ID_1386070244" MODIFIED="1589022172398" TEXT="-ir">
+<node COLOR="#111111" CREATED="1487083762678" ID="ID_464549546" MODIFIED="1589022172398" TEXT="List subdirectories (recursive)"/>
+</node>
+<node COLOR="#111111" CREATED="1491817061607" ID="ID_398562722" MODIFIED="1589022172398" TEXT="-l">
+<node COLOR="#111111" CREATED="1491817070127" ID="ID_1518315934" MODIFIED="1589022172398" TEXT="Long listing"/>
+</node>
+<node COLOR="#111111" CREATED="1491817192734" ID="ID_829425487" MODIFIED="1589022172399" TEXT="-a">
+<node COLOR="#111111" CREATED="1491817197294" ID="ID_12706246" MODIFIED="1589022172399" TEXT="All files">
+<node COLOR="#111111" CREATED="1491817205278" ID="ID_1626231078" MODIFIED="1589022172399" TEXT="Without this it will not show . entities"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1584526752065" ID="ID_1354975761" MODIFIED="1589022172399" TEXT="-t">
+<node COLOR="#111111" CREATED="1584526760769" ID="ID_614106502" MODIFIED="1589022172399" TEXT="By time"/>
+</node>
+<node COLOR="#111111" CREATED="1636544369991" ID="ID_1000785246" MODIFIED="1636544375734" TEXT="-d">
+<node COLOR="#111111" CREATED="1636544377705" ID="ID_536341442" MODIFIED="1636544384689" TEXT="By name">
+<node COLOR="#111111" CREATED="1636544390472" ID="ID_1533564312" MODIFIED="1636544422526" TEXT="ls -d *file_with_abc*"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1491211679443" ID="ID_221193246" MODIFIED="1589022172399" TEXT="Or use...">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491211670162" ID="ID_675536782" MODIFIED="1589022172399" TEXT="echo *">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1487083355732" ID="ID_1450196994" MODIFIED="1589022172399" TEXT="dir">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1491817086925" ID="ID_1640535414" MODIFIED="1589022172399" TEXT="List directory contents">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491817098428" ID="ID_984403105" MODIFIED="1589022172399" TEXT="ls -alir /etc"/>
+</node>
+<node COLOR="#990000" CREATED="1493294861832" ID="ID_1878889600" MODIFIED="1589022172399" TEXT="List number of files">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1493294868290" ID="ID_986960855" MODIFIED="1589022172399" TEXT="ls | wc -l"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080757307" ID="ID_1244442293" MODIFIED="1589022172399" TEXT="Push">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080585452" ID="ID_464695984" MODIFIED="1589022172399" TEXT="pushd">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080760395" ID="ID_124571314" MODIFIED="1589022172399" TEXT="Pop">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080592630" ID="ID_604335229" MODIFIED="1589022172400" TEXT="popd">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080769163" ID="ID_1401450277" MODIFIED="1589022172400" TEXT="Move">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080604454" ID="ID_248294181" MODIFIED="1589022172400" TEXT="mv">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080771772" ID="ID_375352151" MODIFIED="1589022172400" TEXT="Copy">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080600084" ID="ID_1595250003" MODIFIED="1589022172400" TEXT="cp ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1491211456969" ID="ID_1003004917" MODIFIED="1589022172400" POSITION="left" TEXT="Operators">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1491211462193" ID="ID_1408198540" MODIFIED="1589022172400" TEXT="Wildcards">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491211515499" ID="ID_77924694" MODIFIED="1589022172400" TEXT="Sinlge">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491211499732" ID="ID_366012776" MODIFIED="1589022172400" TEXT="?">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1543529370442" ID="ID_380277617" MODIFIED="1589022172400" TEXT="echo s?at"/>
+</node>
+<node COLOR="#990000" CREATED="1491211530149" ID="ID_1820834205" MODIFIED="1589022172400" TEXT="Multiple">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491211467009" ID="ID_240978163" MODIFIED="1589022172400" TEXT="*">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1543529405954" ID="ID_1346871158" MODIFIED="1589022172400" TEXT="echo star*"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491815413806" ID="ID_451300818" MODIFIED="1589022172400" TEXT="Pipe">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491815418830" ID="ID_1413946768" MODIFIED="1589022172400" TEXT="|">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491816209032" ID="ID_1657378602" MODIFIED="1589022172400" TEXT="Comments">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491816220078" ID="ID_1281164247" MODIFIED="1589022172401" TEXT="#">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1491211984423" ID="ID_1910551542" MODIFIED="1589022172401" POSITION="left" TEXT="Terminal">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1491211987894" ID="ID_1209908875" MODIFIED="1589022172401" TEXT="Paste">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491211997215" ID="ID_517892198" MODIFIED="1589022172401" TEXT="Ctrl-Shift-V">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212011456" ID="ID_1225242703" MODIFIED="1589022172401" TEXT="Copy">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212016968" ID="ID_677196188" MODIFIED="1589022172401" TEXT="Ctrl-Shift-C">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212037832" ID="ID_242488820" MODIFIED="1589022172401" TEXT="Clear">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212042609" ID="ID_1544093358" MODIFIED="1589022172401" TEXT="Ctrl-L">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212049538" ID="ID_716998924" MODIFIED="1589022172401" TEXT="Break">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212082435" ID="ID_182280038" MODIFIED="1589022172401" TEXT="Ctrl-C">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1491212383456" ID="ID_604606211" MODIFIED="1589022172401" POSITION="left" TEXT="Network">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1491212428906" ID="ID_243908645" MODIFIED="1589022172401" TEXT="ping">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491212434146" ID="ID_1000703082" MODIFIED="1589022172401" TEXT="ping 8.8.8.8">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1491212441866" ID="ID_1476032728" MODIFIED="1589022172401" TEXT="ping google.ie">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491212451395" ID="ID_1647835488" MODIFIED="1589022172401" TEXT="ifconfig">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+<node COLOR="#00b439" CREATED="1493392608476" ID="ID_1018622210" MODIFIED="1589022172402" TEXT="Reset connection">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1493392617735" ID="ID_1055140641" MODIFIED="1589022172402" TEXT="sudo service network-manager restart">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1526483193399" ID="ID_917251129" MODIFIED="1589022172402" POSITION="left" TEXT="Services">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1526483200752" ID="ID_1782981196" MODIFIED="1589022172402" TEXT="Restart">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526483208872" ID="ID_1830111640" MODIFIED="1589022172402" TEXT="sudo systemctl restart servicename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526483316109" ID="ID_352073088" MODIFIED="1589022172402" TEXT="Start">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526483324852" ID="ID_1458229858" MODIFIED="1589022172402" TEXT="sudo systemctl start servicename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526483227456" ID="ID_1688107397" MODIFIED="1589022172402" TEXT="Status">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526483232576" ID="ID_217425543" MODIFIED="1589022172402" TEXT="systemctl -l --type service --all">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1526483260481" ID="ID_906260095" MODIFIED="1589022172402" TEXT="or">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1526483262838" ID="ID_1459430425" MODIFIED="1589022172402" TEXT="service --status-all">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1526483285808" ID="ID_205977934" MODIFIED="1589022172402" TEXT="or">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1526483296959" ID="ID_915583921" MODIFIED="1589022172402" TEXT="service servicename status">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526484754830" ID="ID_186955784" MODIFIED="1589022172402" TEXT="List startup items">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526484764208" ID="ID_669624592" MODIFIED="1589022172402" TEXT="systemctl list-unit-files --type=service">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1526484766395" ID="ID_740881040" MODIFIED="1589022172402" TEXT="Depends on type of init/ Unix version">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1487007571210" ID="ID_1960946731" MODIFIED="1589022172403" POSITION="left" TEXT="Other">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1487080958987" ID="ID_1558897019" MODIFIED="1589022172403" TEXT="print arguments">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080954524" ID="ID_1162238551" MODIFIED="1589022172403" TEXT="echo">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487081004230" ID="ID_705884244" MODIFIED="1589022172403" TEXT="export/set new environment variable  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080979452" ID="ID_1653227591" MODIFIED="1589022172403" TEXT="export">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491213355257" ID="ID_1441029371" MODIFIED="1589022172403" TEXT="Processes">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491213610037" ID="ID_770269082" MODIFIED="1589022172403" TEXT="List">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491213776859" ID="ID_410308843" MODIFIED="1589022172403" TEXT="By CPU use">
+<node COLOR="#111111" CREATED="1491213614668" ID="ID_1937966728" MODIFIED="1589022172403" TEXT="top"/>
+</node>
+<node COLOR="#111111" CREATED="1491213679752" ID="ID_930279094" MODIFIED="1589022172403" TEXT="All">
+<node COLOR="#111111" CREATED="1491213643462" ID="ID_609979174" MODIFIED="1589022172403" TEXT="ps -A"/>
+</node>
+<node COLOR="#111111" CREATED="1491213758154" ID="ID_1845365048" MODIFIED="1589022172404" TEXT="Specific">
+<node COLOR="#111111" CREATED="1491213808965" ID="ID_672356273" MODIFIED="1589022172404" TEXT="ps -A | grep processname"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1491213359458" ID="ID_581199913" MODIFIED="1589022172404" TEXT="Kill">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491214738814" ID="ID_494649434" MODIFIED="1589022172404" TEXT="kill PID"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491815300485" ID="ID_825157732" MODIFIED="1589022172404" TEXT="Word count">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491815306588" ID="ID_279799669" MODIFIED="1589022172404" TEXT="wc">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491815431348" ID="ID_918023811" MODIFIED="1589022172404" TEXT="x y z"/>
+<node COLOR="#111111" CREATED="1491815437605" ID="ID_769364617" MODIFIED="1589022172404" TEXT="lines words characters"/>
+</node>
+<node COLOR="#990000" CREATED="1491815393696" ID="ID_388169474" MODIFIED="1589022172404" TEXT="somecommand | wc">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491816500895" ID="ID_272772973" MODIFIED="1589022172404" TEXT="Output shell type  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491816509094" ID="ID_270005466" MODIFIED="1589022172404" TEXT="echo $SHELL">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1491816598122" ID="ID_1538630245" MODIFIED="1589022172404" TEXT="...or list processes">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1491816612281" ID="ID_29171700" MODIFIED="1589022172404" TEXT="ps"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526466936258" ID="ID_1555973215" MODIFIED="1589022172404" TEXT="Check session uptime">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526466945584" ID="ID_1401415430" MODIFIED="1589022172404" TEXT="uptime">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526472700308" ID="ID_1205141338" MODIFIED="1589022172404" TEXT="Rerun previous command with root permission  ">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526472716614" ID="ID_152326031" MODIFIED="1589022172404" TEXT="sudo !!">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1538498128816" ID="ID_380356032" MODIFIED="1589022172404" TEXT="OS Version">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1538498141202" ID="ID_1940102836" MODIFIED="1589022172405" TEXT="lsb_release -a">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1543918216374" ID="ID_1264237940" MODIFIED="1589022172405" TEXT="File system">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1543918224493" ID="ID_1714065804" MODIFIED="1589022172405" TEXT="Show diskspace">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1543918233173" ID="ID_1940591212" MODIFIED="1589022172405" TEXT="df"/>
+</node>
+<node COLOR="#990000" CREATED="1612790027812" ID="ID_481359854" MODIFIED="1612790039154" TEXT="Find largest directories">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1612790022524" ID="ID_1212745873" MODIFIED="1612790022524" TEXT="du -cha --max-depth=1 / | grep -E &quot;M|G&quot;"/>
+<node COLOR="#111111" CREATED="1612790055431" ID="ID_1635248755" MODIFIED="1612790087347" TEXT="Recursively search using the results from each search"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1491571479208" ID="ID_40473566" MODIFIED="1589022172405" POSITION="right" TEXT="Switches">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1491571482478" ID="ID_1435537962" MODIFIED="1589022172405" TEXT="-v">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491571485218" ID="ID_855621322" MODIFIED="1589022172405" TEXT="Verbose">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491571490045" ID="ID_1313697235" MODIFIED="1589022172405" TEXT="-i">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491571493565" ID="ID_480135907" MODIFIED="1589022172405" TEXT="Interactive">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1505750378481" ID="ID_1751434101" LINK="http://catb.org/~esr/writings/taoup/html/ch10s05.html" MODIFIED="1589022172405" TEXT="See LINK HERE">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="attach"/>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1491815141441" ID="ID_828814848" MODIFIED="1589022172406" POSITION="right" TEXT="Users">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1487080554627" ID="ID_1625289807" MODIFIED="1589022172406" TEXT="Show computer name">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080549186" ID="ID_1098510435" MODIFIED="1589022172406" TEXT="hostname">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491214816695" ID="ID_1014949215" MODIFIED="1589022172406" TEXT="Show username">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491214826423" ID="ID_1049812561" MODIFIED="1589022172406" TEXT="whoami">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1487080989941" ID="ID_1032162673" MODIFIED="1589022172406" TEXT="Super user">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1487080984701" ID="ID_1133001296" MODIFIED="1589022172406" TEXT="sudo">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491216556097" ID="ID_532111582" MODIFIED="1589022172406" TEXT="Change user">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491216564202" ID="ID_743802471" MODIFIED="1589022172406" TEXT="sudo -username">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1491815162787" ID="ID_1480032954" MODIFIED="1589022172406" TEXT="Show logged in users">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1491815170212" ID="ID_184139863" MODIFIED="1589022172406" TEXT="who">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1498641008795" ID="ID_1637016779" MODIFIED="1589022172406" TEXT="Kill user">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1498641015928" ID="ID_1265705969" MODIFIED="1589022172406" TEXT="who -u">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1498641030600" ID="ID_491633479" MODIFIED="1589022172406" TEXT="kill pidnumber">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1504862118140" ID="ID_38289171" MODIFIED="1589022172406" TEXT="Change password">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1504862126070" ID="ID_880131978" MODIFIED="1589022172406" TEXT="sudo newpasswd username">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1526563018790" ID="ID_1427215899" MODIFIED="1589022172406" TEXT="Add user">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1526563061381" ID="ID_53734956" MODIFIED="1589022172406" TEXT="adduser username">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1541156575223" ID="ID_863190597" MODIFIED="1589022172406" TEXT="Elevate to su">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1541156586741" ID="ID_808970644" MODIFIED="1589022172406" TEXT="sudo -i">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1506418884485" ID="ID_424937223" MODIFIED="1589022172406" POSITION="right" TEXT="Scripts">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1506418891901" ID="ID_1051892446" MODIFIED="1589022172406" TEXT="Run">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1506418958773" ID="ID_1773790474" MODIFIED="1589022172406" TEXT="shellname.sh">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1506418911732" ID="ID_1286926262" MODIFIED="1589022172406" TEXT="May need to add execute permissions">
+<arrowlink DESTINATION="ID_1358387845" ENDARROW="Default" ENDINCLINATION="350;0;" ID="Arrow_ID_1000127329" STARTARROW="None" STARTINCLINATION="350;0;"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1506418896789" ID="ID_36364581" MODIFIED="1589022172406" TEXT="sh shellname.sh">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1543530294703" ID="ID_387680964" MODIFIED="1589022172406" POSITION="right" TEXT="Variables">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1543530310340" ID="ID_1685284877" MODIFIED="1589022172407" TEXT="Assign">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1543530318449" ID="ID_1771512033" MODIFIED="1589022172407" TEXT="myvar = &apos;pwd&apos;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1543530350537" ID="ID_482559246" MODIFIED="1589022172407" TEXT="myvar = 12">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1543530361241" ID="ID_324286549" MODIFIED="1589022172407" TEXT="Usage">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1543530410165" ID="ID_1190983346" MODIFIED="1589022172407" TEXT="$myvar">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1584526668409" ID="ID_1460601526" MODIFIED="1589022172407" POSITION="left" TEXT="Screen">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1584526695987" ID="ID_1631317494" MODIFIED="1589022172407" TEXT="All cmds preceeded by Ctrl-A">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="messagebox_warning"/>
+</node>
+<node COLOR="#00b439" CREATED="1584526678206" ID="ID_1314364547" MODIFIED="1589022172407" TEXT="Start">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526681996" ID="ID_1074987865" MODIFIED="1589022172407" TEXT="screen">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526898614" ID="ID_840516158" MODIFIED="1589022172407" TEXT="Reattach">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526911237" ID="ID_583288245" MODIFIED="1589022172407" TEXT="screen - r yourpid">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526688180" ID="ID_1703431398" MODIFIED="1589022172407" TEXT="Split horizontal">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526730353" ID="ID_1942562681" MODIFIED="1589022172407" TEXT="S">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526873826" ID="ID_852454518" MODIFIED="1589022172407" TEXT="Add">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526880347" ID="ID_1463549722" MODIFIED="1589022172407" TEXT="c">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526827043" ID="ID_1713740182" MODIFIED="1589022172407" TEXT="Switch">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526831892" ID="ID_514061845" MODIFIED="1589022172407" TEXT="Tab">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526839995" ID="ID_54895815" MODIFIED="1589022172407" TEXT="Scroll">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526845081" ID="ID_1010179333" MODIFIED="1589022172407" TEXT="Esc">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584526891373" ID="ID_1781843090" MODIFIED="1589022172407" TEXT="Kill">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1584526894878" ID="ID_972903701" MODIFIED="1589022172407" TEXT="k">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1584527259653" ID="ID_1678697557" MODIFIED="1589022172407" TEXT="Exit">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+</node>
+</node>
+</node>
+</map>
