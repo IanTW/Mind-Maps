@@ -185,22 +185,6 @@
 <node COLOR="#111111" CREATED="1443107375724" ID="ID_1256349365" MODIFIED="1443107381562" TEXT="Knowledge presentation"/>
 <node COLOR="#111111" CREATED="1443107384789" ID="ID_1710325179" MODIFIED="1443107389706" TEXT="Use of knowledge"/>
 </node>
-<node COLOR="#990000" CREATED="1443086849321" ID="ID_409456094" MODIFIED="1462467455586">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../../05.%20Data%20Mining/Mind%20Maps/Data%20Mining%20Life%20Cycles_3460731314112428510.jpeg" height="350" width="600" />
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="bezier" WIDTH="thin"/>
-<arrowlink DESTINATION="ID_409456094" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1506617334" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_409456094" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1506617334" SOURCE="ID_409456094" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<font NAME="SansSerif" SIZE="14"/>
-</node>
 </node>
 </node>
 <node COLOR="#0033ff" CREATED="1422291393719" ID="ID_1260706101" MODIFIED="1454803092586" POSITION="right" TEXT="Storing important data">
@@ -868,21 +852,6 @@
 <edge STYLE="bezier" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="14"/>
 </node>
-</node>
-<node COLOR="#00b439" CREATED="1442577776132" ID="ID_334231071" MODIFIED="1462467773874">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      <img src="../../05.%20Data%20Mining/Mind%20Maps/Data%20Mining_7934064089092864476.jpeg" height="300" width="300" />
-    </p>
-  </body>
-</html></richcontent>
-<edge STYLE="bezier" WIDTH="thin"/>
-<font NAME="SansSerif" SIZE="16"/>
-<icon BUILTIN="idea"/>
 </node>
 </node>
 </node>

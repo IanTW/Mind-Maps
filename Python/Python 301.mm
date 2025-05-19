@@ -10,8 +10,7 @@
       Advanced
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#3333ff"/>
 <font NAME="SansSerif" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
@@ -271,6 +270,45 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
+<node COLOR="#990000" CREATED="1729461884728" ID="ID_744924873" MODIFIED="1729461894383" TEXT="Add env variable">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1729461895405" ID="ID_824922833" MODIFIED="1729461897242" TEXT="conda env config vars set my_var=value"/>
+<node COLOR="#111111" CREATED="1729462070052" ID="ID_1780160916" MODIFIED="1729462086832" TEXT="conda env config vars list"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1729253787478" ID="ID_366780145" MODIFIED="1729253806017" TEXT="Installing a kernel">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="messagebox_warning"/>
+<node COLOR="#990000" CREATED="1729253895424" ID="ID_71548699" MODIFIED="1729253897623" TEXT="https://ipython.readthedocs.io/en/8.27.0/install/kernel_install.html">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1729253991738" ID="ID_467708610" MODIFIED="1729253999752" TEXT="activate myenv">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1729253899281" ID="ID_501147787" MODIFIED="1729254008174" TEXT="conda install  ipykernel">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1729254009219" ID="ID_1073672006" MODIFIED="1729254199372" TEXT="python -m ipykernel install --user --name myenv --display-name &quot;Python (myenv)&quot;">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1729254321946" ID="ID_717179309" MODIFIED="1729254368932" TEXT="Install packages to the environment with the % operator">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
+<node COLOR="#111111" CREATED="1729254332081" ID="ID_1078267321" MODIFIED="1729254340741" TEXT="%pip install packagename"/>
+</node>
+<node COLOR="#990000" CREATED="1729254378274" ID="ID_1972569290" MODIFIED="1729461843897" TEXT="Show kernels">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1729254384705" ID="ID_772120863" MODIFIED="1729254394845" TEXT="jupyter kernelspec list"/>
+</node>
+<node COLOR="#990000" CREATED="1729256086792" ID="ID_627365825" MODIFIED="1729256093427" TEXT="Remove kernel">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1729256094708" ID="ID_1410537813" MODIFIED="1729256094709" TEXT="jupyter kernelspec uninstall myKernalName"/>
+</node>
+<node COLOR="#990000" CREATED="1729255100208" ID="ID_1215915957" MODIFIED="1729256116960" TEXT="Kernel location">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1729255105167" ID="ID_190827103" MODIFIED="1729255106443" TEXT="C:\Users\Ian\AppData\Roaming\jupyter\kernels\llamatest"/>
+</node>
 </node>
 <node COLOR="#00b439" CREATED="1712050393584" ID="ID_718694303" MODIFIED="1712050399253" TEXT="Packages">
 <edge STYLE="bezier" WIDTH="thin"/>
@@ -329,6 +367,17 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 <node COLOR="#990000" CREATED="1707474547407" ID="ID_79014162" MODIFIED="1707474549890" TEXT="where r">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1737027458340" ID="ID_33852215" MODIFIED="1737027485213" TEXT="Show which environment is in use">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<icon BUILTIN="idea"/>
+<node COLOR="#990000" CREATED="1737027501407" ID="ID_929291383" MODIFIED="1737027501407" TEXT="import sys">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1737027501408" ID="ID_46828668" MODIFIED="1737027501408" TEXT="print(sys.executable)">
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
@@ -446,6 +495,17 @@
 <node COLOR="#990000" CREATED="1670284411644" ID="ID_919084036" MODIFIED="1670284418495" TEXT="Install r-essentials">
 <font NAME="SansSerif" SIZE="14"/>
 <node COLOR="#111111" CREATED="1670284419548" ID="ID_1384676606" MODIFIED="1670284421866" TEXT="conda install -c r r-essentials"/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1729180069971" ID="ID_1970557080" MODIFIED="1729180075247" TEXT="Install packages">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1729180076516" ID="ID_513497165" MODIFIED="1729180099983" TEXT="%pip install packagename">
+<font NAME="SansSerif" SIZE="14"/>
+</node>
+<node COLOR="#990000" CREATED="1729180101652" ID="ID_569349800" MODIFIED="1729243544281" TEXT="Installs to the environment,  not base environment">
+<font NAME="SansSerif" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
 </node>
 </node>
 </node>

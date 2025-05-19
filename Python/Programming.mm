@@ -14,14 +14,14 @@
 <edge COLOR="#000000" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1429198630397" ID="ID_100600784" MODIFIED="1719349259449" POSITION="right" TEXT="Computer Science">
+<node COLOR="#0033ff" CREATED="1429198630397" ID="ID_100600784" MODIFIED="1720036510230" POSITION="right" TEXT="Computer Science">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429198760397" ID="ID_947064799" MODIFIED="1719349259450" TEXT="Computer science is a discipline that involves the understanding and design of computers and computational processes">
+<node COLOR="#00b439" CREATED="1429198760397" ID="ID_947064799" MODIFIED="1720036510233" TEXT="Computer science is a discipline that involves the understanding and design of computers and computational processes">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429199186155" ID="ID_1070365256" MODIFIED="1719349259450" TEXT="Aspects">
+<node COLOR="#00b439" CREATED="1429199186155" ID="ID_1070365256" MODIFIED="1720036510235" TEXT="Aspects">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429199197206" ID="ID_571586788" MODIFIED="1719349259450" TEXT="Theory of computation">
@@ -45,7 +45,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429198791430" ID="ID_1446416402" MODIFIED="1719349259451" TEXT="Capabilities">
+<node COLOR="#00b439" CREATED="1429198791430" ID="ID_1446416402" MODIFIED="1720036510236" TEXT="Capabilities">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429198813572" ID="ID_1442785341" MODIFIED="1719349259451" TEXT="Apply fundamental concepts and techniques of  ">
@@ -104,7 +104,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429200112584" ID="ID_1471579840" MODIFIED="1719349259457" POSITION="left">
+<node COLOR="#0033ff" CREATED="1429200112584" ID="ID_1471579840" MODIFIED="1720036510238" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -120,11 +120,11 @@
 </html></richcontent>
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429201158957" ID="ID_1221718137" MODIFIED="1719349259457" TEXT="Think before you start">
+<node COLOR="#00b439" CREATED="1429201158957" ID="ID_1221718137" MODIFIED="1720036510239" TEXT="Think before you start">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429201187622" ID="ID_1677574133" MODIFIED="1719349259457" TEXT="A good program is easy to read">
+<node COLOR="#00b439" CREATED="1429201187622" ID="ID_1677574133" MODIFIED="1720036510239" TEXT="A good program is easy to read">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429201216728" ID="ID_857405524" MODIFIED="1719349259458" TEXT="Running it is secondary">
@@ -152,7 +152,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429525358997" ID="ID_764482226" MODIFIED="1719349259458" TEXT="Robust">
+<node COLOR="#00b439" CREATED="1429525358997" ID="ID_764482226" MODIFIED="1720036510240" TEXT="Robust">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429525411854" ID="ID_81953638" MODIFIED="1719349259458" TEXT="Deal with unexpected inputs">
@@ -160,7 +160,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429525430407" ID="ID_1354917677" MODIFIED="1719349259458" TEXT="Correct">
+<node COLOR="#00b439" CREATED="1429525430407" ID="ID_1354917677" MODIFIED="1720036510240" TEXT="Correct">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429525439328" ID="ID_1479898935" MODIFIED="1719349259458" TEXT="Results or ouputs should be correct">
@@ -172,7 +172,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429199651724" ID="ID_1368123100" MODIFIED="1719349259459" TEXT="Goals">
+<node COLOR="#00b439" CREATED="1429199651724" ID="ID_1368123100" MODIFIED="1720036510241" TEXT="Goals">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429199656204" ID="ID_1400229929" MODIFIED="1719349259459" TEXT="Improve problem solving">
@@ -199,10 +199,10 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429201300748" ID="ID_188843988" MODIFIED="1719349259459" POSITION="right" TEXT="Python">
+<node COLOR="#0033ff" CREATED="1429201300748" ID="ID_188843988" MODIFIED="1720036510242" POSITION="right" TEXT="Python">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429201315412" ID="ID_136439817" MODIFIED="1719349259460" TEXT="Simpler than others">
+<node COLOR="#00b439" CREATED="1429201315412" ID="ID_136439817" MODIFIED="1720036510242" TEXT="Simpler than others">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429201324900" ID="ID_493194692" MODIFIED="1719349259460" TEXT="Fewer alternative ways of doing things">
@@ -218,7 +218,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429201396685" ID="ID_151364357" MODIFIED="1719349259460" TEXT="Interactive ">
+<node COLOR="#00b439" CREATED="1429201396685" ID="ID_151364357" MODIFIED="1720036510243" TEXT="Interactive ">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429260889167" ID="ID_712988996" MODIFIED="1719349259460" TEXT="No need to compile">
@@ -234,7 +234,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429262880303" ID="ID_1736477940" MODIFIED="1719349259461" TEXT="Interpreted language">
+<node COLOR="#00b439" CREATED="1429262880303" ID="ID_1736477940" MODIFIED="1720036510244" TEXT="Interpreted language">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429262900774" ID="ID_1785588027" MODIFIED="1719349259461" TEXT="Each instruction is examined one at a time">
@@ -242,7 +242,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429263316986" ID="ID_1509866601" MODIFIED="1719349259461" TEXT="Statements">
+<node COLOR="#00b439" CREATED="1429263316986" ID="ID_1509866601" MODIFIED="1720036510244" TEXT="Statements">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429263364483" ID="ID_1058575243" MODIFIED="1719349259461" TEXT="Perform an operation">
@@ -254,7 +254,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429263329330" ID="ID_745710284" MODIFIED="1719349259461" TEXT="Expressions">
+<node COLOR="#00b439" CREATED="1429263329330" ID="ID_745710284" MODIFIED="1720036510245" TEXT="Expressions">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429263335675" ID="ID_1468491315" MODIFIED="1719349259461" TEXT="Perform an operation">
@@ -266,15 +266,27 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1720036338947" ID="ID_166184082" MODIFIED="1720036510246" TEXT="Dynamically Typed">
+<edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
+<font NAME="Rockwell" SIZE="16"/>
+<node COLOR="#990000" CREATED="1720036382119" ID="ID_78879730" MODIFIED="1720036424148" TEXT="Variable type is interpreted during runtime">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
 </node>
-<node COLOR="#0033ff" CREATED="1429261367775" ID="ID_239682328" MODIFIED="1719349259461" POSITION="left" TEXT="Computer Components">
+<node COLOR="#990000" CREATED="1720036443557" ID="ID_645039547" MODIFIED="1720036510246" TEXT="In statically typed languages, the type ispecified during declaration">
+<edge COLOR="#990000" WIDTH="1"/>
+<font NAME="Rockwell" SIZE="14"/>
+</node>
+</node>
+</node>
+<node COLOR="#0033ff" CREATED="1429261367775" ID="ID_239682328" MODIFIED="1720036510248" POSITION="left" TEXT="Computer Components">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429261380476" ID="ID_133045874" MODIFIED="1719349259461" TEXT="People">
+<node COLOR="#00b439" CREATED="1429261380476" ID="ID_133045874" MODIFIED="1720036510248" TEXT="People">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429261384007" ID="ID_1034252953" MODIFIED="1719349259461" TEXT="Hardware">
+<node COLOR="#00b439" CREATED="1429261384007" ID="ID_1034252953" MODIFIED="1720036510249" TEXT="Hardware">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429261394148" ID="ID_1442453142" MODIFIED="1719349259462" TEXT="Processor">
@@ -327,7 +339,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429261387777" ID="ID_1147814403" MODIFIED="1719349259462" TEXT="Software">
+<node COLOR="#00b439" CREATED="1429261387777" ID="ID_1147814403" MODIFIED="1720036510250" TEXT="Software">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429261444591" ID="ID_1837741499" MODIFIED="1719349259462" TEXT="Operating systems">
@@ -349,15 +361,15 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429715503897" ID="ID_1034920755" MODIFIED="1719349259463" POSITION="left" TEXT="Testing">
+<node COLOR="#0033ff" CREATED="1429715503897" ID="ID_1034920755" MODIFIED="1720036510252" POSITION="left" TEXT="Testing">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429715535250" ID="ID_1637957769" MODIFIED="1719349259463" TEXT="Testing help address semantic and design errors  ">
+<node COLOR="#00b439" CREATED="1429715535250" ID="ID_1637957769" MODIFIED="1720036510252" TEXT="Testing help address semantic and design errors  ">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <icon BUILTIN="idea"/>
 </node>
-<node COLOR="#00b439" CREATED="1429718025243" ID="ID_520908741" MODIFIED="1719349259466" TEXT="What to test">
+<node COLOR="#00b439" CREATED="1429718025243" ID="ID_520908741" MODIFIED="1720036510252" TEXT="What to test">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429718037891" ID="ID_551156633" MODIFIED="1719349259466" TEXT="Correctness">
@@ -476,7 +488,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429263290697" ID="ID_165298895" MODIFIED="1719349259468" TEXT="Error Types">
+<node COLOR="#00b439" CREATED="1429263290697" ID="ID_165298895" MODIFIED="1720036510255" TEXT="Error Types">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429199866912" ID="ID_1412110703" MODIFIED="1719349259468" TEXT="Syntax">
@@ -512,7 +524,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429717809417" ID="ID_496258855" MODIFIED="1719349259469" TEXT="Types">
+<node COLOR="#00b439" CREATED="1429717809417" ID="ID_496258855" MODIFIED="1720036510256" TEXT="Types">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429717816226" ID="ID_1746094388" MODIFIED="1719349259469" TEXT="Static">
@@ -547,7 +559,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429717948575" ID="ID_566003226" MODIFIED="1719349259469" TEXT="Levels">
+<node COLOR="#00b439" CREATED="1429717948575" ID="ID_566003226" MODIFIED="1720036510257" TEXT="Levels">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429717952848" ID="ID_1724417766" MODIFIED="1719349259469" TEXT="Unit">
@@ -575,7 +587,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429718645797" ID="ID_652454423" MODIFIED="1719349259470" TEXT="doctest">
+<node COLOR="#00b439" CREATED="1429718645797" ID="ID_652454423" MODIFIED="1720036510258" TEXT="doctest">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <icon BUILTIN="idea"/>
@@ -592,15 +604,15 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429524555010" ID="ID_1290427096" MODIFIED="1719349259470" POSITION="right" TEXT="Program vs. Algorithm">
+<node COLOR="#0033ff" CREATED="1429524555010" ID="ID_1290427096" MODIFIED="1720036510260" POSITION="right" TEXT="Program vs. Algorithm">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429524615186" ID="ID_1754926108" MODIFIED="1719349259470" TEXT="What we want to do versus what we actually did  ">
+<node COLOR="#00b439" CREATED="1429524615186" ID="ID_1754926108" MODIFIED="1720036510260" TEXT="What we want to do versus what we actually did  ">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <icon BUILTIN="idea"/>
 </node>
-<node COLOR="#00b439" CREATED="1429524570371" ID="ID_642149508" MODIFIED="1719349259471">
+<node COLOR="#00b439" CREATED="1429524570371" ID="ID_642149508" MODIFIED="1720036510261">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -668,7 +680,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429524584173" ID="ID_914269910" MODIFIED="1719349259474" TEXT="A program is the implementation of&#xa;an algorithm in a particular language&#xa; to run on a computer">
+<node COLOR="#00b439" CREATED="1429524584173" ID="ID_914269910" MODIFIED="1720036510264" TEXT="A program is the implementation of&#xa;an algorithm in a particular language&#xa; to run on a computer">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429524697006" ID="ID_1924661488" MODIFIED="1719349259474" TEXT="Some languages are user to implement">
@@ -681,14 +693,14 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429261635317" ID="ID_1835578491" MODIFIED="1719349259474" POSITION="left" TEXT="Program">
+<node COLOR="#0033ff" CREATED="1429261635317" ID="ID_1835578491" MODIFIED="1720036510266" POSITION="left" TEXT="Program">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429261641245" ID="ID_1070451246" MODIFIED="1719349259474" TEXT="Sequence of instructions">
+<node COLOR="#00b439" CREATED="1429261641245" ID="ID_1070451246" MODIFIED="1720036510266" TEXT="Sequence of instructions">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429261653752" ID="ID_1081175539" MODIFIED="1719349259474" TEXT="Written in language according to syntax ">
+<node COLOR="#00b439" CREATED="1429261653752" ID="ID_1081175539" MODIFIED="1720036510266" TEXT="Written in language according to syntax ">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429262363829" ID="ID_165581709" MODIFIED="1719349259474" TEXT="Source code">
@@ -696,7 +708,7 @@
 <font NAME="Rockwell" SIZE="14"/>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429262310139" ID="ID_1594194299" MODIFIED="1719349259474" TEXT="Compiler">
+<node COLOR="#00b439" CREATED="1429262310139" ID="ID_1594194299" MODIFIED="1720036510266" TEXT="Compiler">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429262479582" ID="ID_1806803141" MODIFIED="1719349259475" TEXT="Source code to Object code">
@@ -718,7 +730,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#00b439" CREATED="1429262587096" ID="ID_1059854791" MODIFIED="1719349259475" TEXT="Linker">
+<node COLOR="#00b439" CREATED="1429262587096" ID="ID_1059854791" MODIFIED="1720036510267" TEXT="Linker">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 <node COLOR="#990000" CREATED="1429262618078" ID="ID_1643054674" MODIFIED="1719349259475" TEXT="Links object code files into an executable">
@@ -727,22 +739,22 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1429649003148" ID="ID_241679564" MODIFIED="1719349259475" POSITION="right" TEXT="Object Oriented Programming">
+<node COLOR="#0033ff" CREATED="1429649003148" ID="ID_241679564" MODIFIED="1720036510267" POSITION="right" TEXT="Object Oriented Programming">
 <edge COLOR="#0033ff" STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="Rockwell" SIZE="18"/>
-<node COLOR="#00b439" CREATED="1429649029811" ID="ID_465645445" MODIFIED="1719349259475" TEXT="Encapsulation: hiding design details to make the program clearer and more easily modified later.">
+<node COLOR="#00b439" CREATED="1429649029811" ID="ID_465645445" MODIFIED="1720036510269" TEXT="Encapsulation: hiding design details to make the program clearer and more easily modified later.">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429649029820" ID="ID_1799565102" MODIFIED="1719349259476" TEXT="Modularity: the ability to make objects &#x201c;stand alone&#x201d; so they can be reused (our modules). I.e. the math module.">
+<node COLOR="#00b439" CREATED="1429649029820" ID="ID_1799565102" MODIFIED="1720036510271" TEXT="Modularity: the ability to make objects &#x201c;stand alone&#x201d; so they can be reused (our modules). I.e. the math module.">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429649029854" ID="ID_1193076388" MODIFIED="1719349259476" TEXT="Inheritance: create a new object by inheriting (like father to son) many object characteristics while creating or over-riding for this object.">
+<node COLOR="#00b439" CREATED="1429649029854" ID="ID_1193076388" MODIFIED="1720036510273" TEXT="Inheritance: create a new object by inheriting (like father to son) many object characteristics while creating or over-riding for this object.">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
-<node COLOR="#00b439" CREATED="1429649029861" ID="ID_1824903223" MODIFIED="1719349259476" TEXT="Polymorphism: (hard) Allow one message to be sent to any object and have it respond appropriately based on the type of object it is.">
+<node COLOR="#00b439" CREATED="1429649029861" ID="ID_1824903223" MODIFIED="1720036510276" TEXT="Polymorphism: (hard) Allow one message to be sent to any object and have it respond appropriately based on the type of object it is.">
 <edge COLOR="#00b439" STYLE="bezier" WIDTH="thin"/>
 <font NAME="Rockwell" SIZE="16"/>
 </node>
